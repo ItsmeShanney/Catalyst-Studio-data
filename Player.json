@@ -1,19 +1,7 @@
 [
   {
-    "cfId": 3321,
-    "fullName": "**************** ****************"
-  },
-  {
-    "cfId": 1974,
-    "fullName": "A.C. Green"
-  },
-  {
     "cfId": 19458,
     "fullName": "A.J. Green"
-  },
-  {
-    "cfId": 19415,
-    "fullName": "A.J. Griffin"
   },
   {
     "cfId": 19415,
@@ -22,10 +10,6 @@
   {
     "cfId": 19376,
     "fullName": "A.J. Lawson"
-  },
-  {
-    "cfId": 19815,
-    "fullName": "AJ Johnson"
   },
   {
     "cfId": 10579,
@@ -40,8 +24,8 @@
     "fullName": "Aaron Holiday"
   },
   {
-    "cfId": 384,
-    "fullName": "Aaron McKie"
+    "cfId": 5524,
+    "fullName": "Aaron Nelson"
   },
   {
     "cfId": 19213,
@@ -52,20 +36,24 @@
     "fullName": "Aaron Wiggins"
   },
   {
-    "cfId": 4483,
-    "fullName": "Aaron Williams"
+    "cfId": 19940,
+    "fullName": "Ace Bailey"
+  },
+  {
+    "cfId": 5595,
+    "fullName": "Ace Jameson"
   },
   {
     "cfId": 19663,
     "fullName": "Adam Flagler"
   },
   {
-    "cfId": 1862,
-    "fullName": "Adam Keefe"
-  },
-  {
     "cfId": 19672,
     "fullName": "Adama Sanogo"
+  },
+  {
+    "cfId": 20611,
+    "fullName": "Aday Mara"
   },
   {
     "cfId": 19865,
@@ -80,40 +68,64 @@
     "fullName": "Adonis Arms"
   },
   {
+    "cfId": 19971,
+    "fullName": "Adou Thiero"
+  },
+  {
+    "cfId": 5125,
+    "fullName": "Adrian Dantley"
+  },
+  {
+    "cfId": 5070,
+    "fullName": "Adrian Griffin"
+  },
+  {
+    "cfId": 5070,
+    "fullName": "Adrian Griffin"
+  },
+  {
     "cfId": 1652,
     "fullName": "Ahston Hagans"
+  },
+  {
+    "cfId": 20600,
+    "fullName": "AJ Dybantsa"
+  },
+  {
+    "cfId": 19815,
+    "fullName": "AJ Johnson"
   },
   {
     "cfId": 19839,
     "fullName": "Ajay Mitchell"
   },
   {
+    "cfId": 19708,
+    "fullName": "AK Okereke"
+  },
+  {
     "cfId": 1412,
     "fullName": "Al Horford"
   },
   {
-    "cfId": 36186,
-    "fullName": "Albert Perry"
+    "cfId": 5564,
+    "fullName": "Alan Baker"
+  },
+  {
+    "cfId": 1598,
+    "fullName": "Alberto Seravalli"
   },
   {
     "cfId": 2138,
     "fullName": "Alec Burks"
   },
   {
-    "cfId": 17053,
-    "fullName": "Alec Peters"
-  },
-  {
     "cfId": 19216,
     "fullName": "Aleksej Pokusevski"
   },
   {
-    "cfId": 6214,
-    "fullName": "Alessandro Pajola"
-  },
-  {
-    "cfId": 2718,
-    "fullName": "Alex Abrines"
+    "cfId": 20053,
+    "fullName": "Alex Antetokounmpo"
   },
   {
     "cfId": 8803,
@@ -124,8 +136,32 @@
     "fullName": "Alex Ducas"
   },
   {
+    "cfId": 5134,
+    "fullName": "Alex English"
+  },
+  {
     "cfId": 19664,
     "fullName": "Alex Fudge"
+  },
+  {
+    "cfId": 5547,
+    "fullName": "Alex Hartman"
+  },
+  {
+    "cfId": 5557,
+    "fullName": "Alex Hartman"
+  },
+  {
+    "cfId": 5559,
+    "fullName": "Alex Hartman"
+  },
+  {
+    "cfId": 5527,
+    "fullName": "Alex Jensen"
+  },
+  {
+    "cfId": 20628,
+    "fullName": "Alex Karaban"
   },
   {
     "cfId": 2691,
@@ -136,52 +172,88 @@
     "fullName": "Alex Morales"
   },
   {
-    "cfId": 10427,
-    "fullName": "Alex O'Connell"
+    "cfId": 5571,
+    "fullName": "Alex O'Brien"
   },
   {
-    "cfId": 8787,
-    "fullName": "Alex Poythress"
+    "cfId": 10427,
+    "fullName": "Alex O'Connell"
   },
   {
     "cfId": 19905,
     "fullName": "Alex Reese"
   },
   {
+    "cfId": 19987,
+    "fullName": "Alex Toohey"
+  },
+  {
+    "cfId": 5587,
+    "fullName": "Alex West"
+  },
+  {
     "cfId": 19842,
     "fullName": "Alexander Sarr"
   },
   {
-    "cfId": 2510,
-    "fullName": "Alexey Shved"
+    "cfId": 5550,
+    "fullName": "Alfred Stuart"
   },
   {
-    "cfId": 17449,
+    "cfId": 19974,
+    "fullName": "Alijah Martin"
+  },
+  {
+    "cfId": 20042,
     "fullName": "Alize Johnson"
   },
   {
-    "cfId": 19829,
-    "fullName": "Allen Flanigan"
+    "cfId": 5535,
+    "fullName": "Allan Donalds"
   },
   {
-    "cfId": 5,
-    "fullName": "Allen Iverson"
+    "cfId": 5547,
+    "fullName": "Allan Donalds"
+  },
+  {
+    "cfId": 5590,
+    "fullName": "Allan Howard"
+  },
+  {
+    "cfId": 5585,
+    "fullName": "Allen Dailey"
+  },
+  {
+    "cfId": 20618,
+    "fullName": "Allen Graves"
+  },
+  {
+    "cfId": 5558,
+    "fullName": "Allen Simmons"
+  },
+  {
+    "cfId": 5554,
+    "fullName": "Allen Smith"
   },
   {
     "cfId": 19921,
     "fullName": "Alondes Williams"
   },
   {
-    "cfId": 2002,
-    "fullName": "Alonzo Mourning"
-  },
-  {
     "cfId": 19315,
     "fullName": "Alperen Sengun"
   },
   {
+    "cfId": 5019,
+    "fullName": "Alvin Gentry"
+  },
+  {
     "cfId": 19640,
     "fullName": "Amari Bailey"
+  },
+  {
+    "cfId": 19981,
+    "fullName": "Amari Williams"
   },
   {
     "cfId": 19603,
@@ -192,56 +264,68 @@
     "fullName": "Amir Coffey"
   },
   {
+    "cfId": 5597,
+    "fullName": "Anderson Meyer"
+  },
+  {
+    "cfId": 5564,
+    "fullName": "Andre Butler"
+  },
+  {
     "cfId": 2452,
     "fullName": "Andre Drummond"
+  },
+  {
+    "cfId": 5586,
+    "fullName": "Andre Jackson"
   },
   {
     "cfId": 19635,
     "fullName": "Andre Jackson Jr."
   },
   {
-    "cfId": 35965,
-    "fullName": "Andre Long"
+    "cfId": 5573,
+    "fullName": "Andre Sampson"
+  },
+  {
+    "cfId": 5572,
+    "fullName": "Andre Williamson"
+  },
+  {
+    "cfId": 20016,
+    "fullName": "Andrew Carr"
   },
   {
     "cfId": 19702,
     "fullName": "Andrew Funk"
   },
   {
+    "cfId": 5058,
+    "fullName": "Andrew Marrinson"
+  },
+  {
     "cfId": 19430,
     "fullName": "Andrew Nembhard"
-  },
-  {
-    "cfId": 35891,
-    "fullName": "Andrew Newman"
-  },
-  {
-    "cfId": 8007,
-    "fullName": "Andrew Toney"
   },
   {
     "cfId": 4503,
     "fullName": "Andrew Wiggins"
   },
   {
+    "cfId": 5568,
+    "fullName": "Andy Green"
+  },
+  {
+    "cfId": 5544,
+    "fullName": "Andy Ray"
+  },
+  {
     "cfId": 17423,
     "fullName": "Anfernee Simons"
   },
   {
-    "cfId": 17395,
-    "fullName": "Ante Zizic"
-  },
-  {
     "cfId": 19605,
     "fullName": "Anthony Black"
-  },
-  {
-    "cfId": 2038,
-    "fullName": "Anthony Bonner"
-  },
-  {
-    "cfId": 2046,
-    "fullName": "Anthony Bowie"
   },
   {
     "cfId": 2444,
@@ -256,20 +340,16 @@
     "fullName": "Anthony Gill"
   },
   {
-    "cfId": 19295,
-    "fullName": "Anthony Lamb"
+    "cfId": 5123,
+    "fullName": "Anthony Oliver"
   },
   {
-    "cfId": 146,
-    "fullName": "Anthony Mason"
+    "cfId": 5535,
+    "fullName": "Anthony Oliver"
   },
   {
-    "cfId": 1973,
-    "fullName": "Antoine Carr"
-  },
-  {
-    "cfId": 35933,
-    "fullName": "Antoine Craig"
+    "cfId": 5591,
+    "fullName": "Anthony Willis"
   },
   {
     "cfId": 19767,
@@ -280,12 +360,16 @@
     "fullName": "Anton Watson"
   },
   {
-    "cfId": 19812,
-    "fullName": "Antonio Reeves"
+    "cfId": 5190,
+    "fullName": "Antonio Lang"
   },
   {
-    "cfId": 8807,
-    "fullName": "Antonius Cleveland"
+    "cfId": 5190,
+    "fullName": "Antonio Lang"
+  },
+  {
+    "cfId": 19812,
+    "fullName": "Antonio Reeves"
   },
   {
     "cfId": 17024,
@@ -296,10 +380,6 @@
     "fullName": "Ariel Hukporti"
   },
   {
-    "cfId": 19688,
-    "fullName": "Armaan Franklin"
-  },
-  {
     "cfId": 19869,
     "fullName": "Armando Bacot"
   },
@@ -308,32 +388,44 @@
     "fullName": "Armel Traore"
   },
   {
+    "cfId": 5093,
+    "fullName": "Armond Hill"
+  },
+  {
     "cfId": 19116,
     "fullName": "Armoni Brooks"
   },
   {
-    "cfId": 2919,
-    "fullName": "Arturas Milaknis"
+    "cfId": 5101,
+    "fullName": "Art Miller"
+  },
+  {
+    "cfId": 5101,
+    "fullName": "Art Miller"
+  },
+  {
+    "cfId": 5595,
+    "fullName": "Art Miller"
+  },
+  {
+    "cfId": 20022,
+    "fullName": "Arthur Kaluma"
+  },
+  {
+    "cfId": 19958,
+    "fullName": "Asa Newell"
+  },
+  {
+    "cfId": 20027,
+    "fullName": "Augustas Marciulionis"
   },
   {
     "cfId": 19604,
     "fullName": "Ausar Thompson"
   },
   {
-    "cfId": 422,
-    "fullName": "Austin Croshere"
-  },
-  {
     "cfId": 19381,
     "fullName": "Austin Reaves"
-  },
-  {
-    "cfId": 2453,
-    "fullName": "Austin Rivers"
-  },
-  {
-    "cfId": 2069,
-    "fullName": "Avery Johnson"
   },
   {
     "cfId": 19337,
@@ -344,12 +436,12 @@
     "fullName": "Azuolas Tubelis"
   },
   {
-    "cfId": 1752,
-    "fullName": "B.J. Armstrong"
+    "cfId": 5554,
+    "fullName": "B.J. McFadden"
   },
   {
-    "cfId": 19350,
-    "fullName": "B.J. Boston Jr."
+    "cfId": 20635,
+    "fullName": "Baba Miller"
   },
   {
     "cfId": 10694,
@@ -360,8 +452,8 @@
     "fullName": "Bam Adebayo"
   },
   {
-    "cfId": 34749,
-    "fullName": "Barry Turner"
+    "cfId": 5573,
+    "fullName": "Barry Myers"
   },
   {
     "cfId": 19808,
@@ -372,6 +464,26 @@
     "fullName": "Ben Coupet Jr."
   },
   {
+    "cfId": 5580,
+    "fullName": "Ben Graham"
+  },
+  {
+    "cfId": 5598,
+    "fullName": "Ben Newsom"
+  },
+  {
+    "cfId": 5539,
+    "fullName": "Ben Parker"
+  },
+  {
+    "cfId": 5551,
+    "fullName": "Ben Parker"
+  },
+  {
+    "cfId": 19961,
+    "fullName": "Ben Saraf"
+  },
+  {
     "cfId": 19625,
     "fullName": "Ben Sheppard"
   },
@@ -380,56 +492,48 @@
     "fullName": "Ben Simmons"
   },
   {
-    "cfId": 36033,
-    "fullName": "Ben Wilkes"
-  },
-  {
-    "cfId": 35077,
-    "fullName": "Bennedict Delaney"
-  },
-  {
     "cfId": 19405,
     "fullName": "Bennedict Mathurin"
   },
   {
-    "cfId": 35110,
-    "fullName": "Bernard Brand"
+    "cfId": 20615,
+    "fullName": "Bennett Stirtz"
+  },
+  {
+    "cfId": 5535,
+    "fullName": "Bernard Patton"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Bernard Patton"
+  },
+  {
+    "cfId": 5593,
+    "fullName": "Bernard Patton"
+  },
+  {
+    "cfId": 5035,
+    "fullName": "Bernie Bickerstaff"
   },
   {
     "cfId": 19606,
     "fullName": "Bilal Coulibaly"
   },
   {
-    "cfId": 1736,
+    "cfId": 5142,
     "fullName": "Bill Cartwright"
   },
   {
-    "cfId": 1744,
-    "fullName": "Bill Laimbeer"
+    "cfId": 8029,
+    "fullName": "Billy Donovan"
   },
   {
-    "cfId": 730,
-    "fullName": "Bill Russell"
-  },
-  {
-    "cfId": 753,
-    "fullName": "Bill Walton"
-  },
-  {
-    "cfId": 1773,
-    "fullName": "Bill Wennington"
-  },
-  {
-    "cfId": 1978,
-    "fullName": "Billy Thompson"
+    "cfId": 5586,
+    "fullName": "Billy West"
   },
   {
     "cfId": 2131,
     "fullName": "Bismack Biyombo"
-  },
-  {
-    "cfId": 1600,
-    "fullName": "Blake Griffin"
   },
   {
     "cfId": 10647,
@@ -440,20 +544,28 @@
     "fullName": "Blake Wesley"
   },
   {
-    "cfId": 1932,
-    "fullName": "Bob Boozer"
-  },
-  {
-    "cfId": 1930,
-    "fullName": "Bob Dandridge"
+    "cfId": 5101,
+    "fullName": "Bob Bender"
   },
   {
     "cfId": 7562,
     "fullName": "Boban Marjanovic"
   },
   {
-    "cfId": 1952,
-    "fullName": "Bobby Jones"
+    "cfId": 8054,
+    "fullName": "Bobby Jackson"
+  },
+  {
+    "cfId": 5557,
+    "fullName": "Bobby Malone"
+  },
+  {
+    "cfId": 5115,
+    "fullName": "Bobby Mason"
+  },
+  {
+    "cfId": 5547,
+    "fullName": "Bobby Mason"
   },
   {
     "cfId": 7521,
@@ -468,6 +580,10 @@
     "fullName": "Bogdan Bogdanovic"
   },
   {
+    "cfId": 19982,
+    "fullName": "Bogoljub Markovic"
+  },
+  {
     "cfId": 2560,
     "fullName": "Bojan Bogdanovic"
   },
@@ -480,11 +596,7 @@
     "fullName": "Bones Hyland"
   },
   {
-    "cfId": 17514,
-    "fullName": "Bonzie Colson"
-  },
-  {
-    "cfId": 24208,
+    "cfId": 19932,
     "fullName": "Boo Buie"
   },
   {
@@ -492,19 +604,39 @@
     "fullName": "Boogie Ellis"
   },
   {
+    "cfId": 5539,
+    "fullName": "Brad Areida"
+  },
+  {
+    "cfId": 5597,
+    "fullName": "Brad James"
+  },
+  {
     "cfId": 2112,
     "fullName": "Brad Jones"
+  },
+  {
+    "cfId": 2112,
+    "fullName": "Brad Jones"
+  },
+  {
+    "cfId": 2112,
+    "fullName": "Brad Jones"
+  },
+  {
+    "cfId": 5584,
+    "fullName": "Brad Taylor"
+  },
+  {
+    "cfId": 20637,
+    "fullName": "Braden Smith"
   },
   {
     "cfId": 2446,
     "fullName": "Bradley Beal"
   },
   {
-    "cfId": 36041,
-    "fullName": "Bradley Valentine"
-  },
-  {
-    "cfId": 24211,
+    "cfId": 19935,
     "fullName": "Branden Carlson"
   },
   {
@@ -512,16 +644,12 @@
     "fullName": "Brandin Podziemski"
   },
   {
+    "cfId": 19350,
+    "fullName": "Brandon Boston Jr"
+  },
+  {
     "cfId": 19020,
     "fullName": "Brandon Clarke"
-  },
-  {
-    "cfId": 1835,
-    "fullName": "Brandon Davies"
-  },
-  {
-    "cfId": 17499,
-    "fullName": "Brandon Goodwin"
   },
   {
     "cfId": 17305,
@@ -540,11 +668,59 @@
     "fullName": "Braxton Key"
   },
   {
-    "cfId": 1136,
-    "fullName": "Brian Scalabrine"
+    "cfId": 20609,
+    "fullName": "Brayden Burries"
   },
   {
-    "cfId": 2045,
+    "cfId": 5599,
+    "fullName": "Brent Harrison"
+  },
+  {
+    "cfId": 5141,
+    "fullName": "Brett Brown"
+  },
+  {
+    "cfId": 5591,
+    "fullName": "Brian Brand"
+  },
+  {
+    "cfId": 5547,
+    "fullName": "Brian Garnett"
+  },
+  {
+    "cfId": 5584,
+    "fullName": "Brian Henry"
+  },
+  {
+    "cfId": 5576,
+    "fullName": "Brian Johnson"
+  },
+  {
+    "cfId": 5172,
+    "fullName": "Brian Keefe"
+  },
+  {
+    "cfId": 5574,
+    "fullName": "Brian Marty"
+  },
+  {
+    "cfId": 5151,
+    "fullName": "Brian Olson"
+  },
+  {
+    "cfId": 5544,
+    "fullName": "Brian Olson"
+  },
+  {
+    "cfId": 5569,
+    "fullName": "Brian Ramsey"
+  },
+  {
+    "cfId": 5167,
+    "fullName": "Brian Shaw"
+  },
+  {
+    "cfId": 5167,
     "fullName": "Brian Shaw"
   },
   {
@@ -552,12 +728,16 @@
     "fullName": "Brian Townsend"
   },
   {
-    "cfId": 4036,
-    "fullName": "Brian Williams"
+    "cfId": 5579,
+    "fullName": "Brian Washington"
   },
   {
     "cfId": 19627,
     "fullName": "Brice Sensabaugh"
+  },
+  {
+    "cfId": 20033,
+    "fullName": "Brice Williams"
   },
   {
     "cfId": 19293,
@@ -568,52 +748,48 @@
     "fullName": "Bronny James Jr."
   },
   {
+    "cfId": 19979,
+    "fullName": "Brook Barnhizer"
+  },
+  {
     "cfId": 1516,
     "fullName": "Brook Lopez"
   },
   {
     "cfId": 17441,
-    "fullName": "Bruce Brown"
+    "fullName": "Bruce Brown Jr."
   },
   {
-    "cfId": 34887,
-    "fullName": "Bruce Parks"
+    "cfId": 5573,
+    "fullName": "Bruce Dixon"
+  },
+  {
+    "cfId": 20630,
+    "fullName": "Bruce Thornton"
   },
   {
     "cfId": 19033,
     "fullName": "Bruno Fernando"
   },
   {
-    "cfId": 36164,
-    "fullName": "Bryan Shepard"
+    "cfId": 2110,
+    "fullName": "Bryan Austin"
   },
   {
-    "cfId": 2940,
-    "fullName": "Bryant Dunston"
-  },
-  {
-    "cfId": 2026,
-    "fullName": "Bryant Stith"
+    "cfId": 20648,
+    "fullName": "Bryce Hopkins"
   },
   {
     "cfId": 19439,
     "fullName": "Bryce McGowens"
   },
   {
-    "cfId": 19833,
-    "fullName": "Bryce Thompson"
-  },
-  {
-    "cfId": 8772,
-    "fullName": "Bryn Forbes"
-  },
-  {
     "cfId": 10593,
     "fullName": "Bryson Warren"
   },
   {
-    "cfId": 1750,
-    "fullName": "Buck Williams"
+    "cfId": 19811,
+    "fullName": "Bub Carrington"
   },
   {
     "cfId": 19464,
@@ -622,10 +798,6 @@
   {
     "cfId": 17337,
     "fullName": "Buddy Hield"
-  },
-  {
-    "cfId": 35942,
-    "fullName": "Byron Holmes"
   },
   {
     "cfId": 1746,
@@ -648,7 +820,7 @@
     "fullName": "Caleb Houstan"
   },
   {
-    "cfId": 19861,
+    "cfId": 20012,
     "fullName": "Caleb Love"
   },
   {
@@ -658,6 +830,10 @@
   {
     "cfId": 10529,
     "fullName": "Caleb McConnell"
+  },
+  {
+    "cfId": 20603,
+    "fullName": "Caleb Wilson"
   },
   {
     "cfId": 19868,
@@ -680,12 +856,32 @@
     "fullName": "Cam Whitmore"
   },
   {
+    "cfId": 20602,
+    "fullName": "Cameron Boozer"
+  },
+  {
+    "cfId": 20623,
+    "fullName": "Cameron Carr"
+  },
+  {
     "cfId": 19010,
     "fullName": "Cameron Johnson"
   },
   {
+    "cfId": 20026,
+    "fullName": "Cameron Mathews"
+  },
+  {
+    "cfId": 20035,
+    "fullName": "Cameron Matthews"
+  },
+  {
     "cfId": 10189,
     "fullName": "Cameron McGriff"
+  },
+  {
+    "cfId": 5530,
+    "fullName": "Cameron Park"
   },
   {
     "cfId": 7513,
@@ -696,40 +892,36 @@
     "fullName": "Caris LeVert"
   },
   {
-    "cfId": 4041,
-    "fullName": "Carl Herrera"
+    "cfId": 19949,
+    "fullName": "Carter Bryant"
   },
   {
-    "cfId": 19392,
-    "fullName": "Carlik Jones"
-  },
-  {
-    "cfId": 19811,
-    "fullName": "Carlton Carrington"
-  },
-  {
-    "cfId": 34915,
-    "fullName": "Carson Jackson"
+    "cfId": 5516,
+    "fullName": "Casey Smith"
   },
   {
     "cfId": 19609,
     "fullName": "Cason Wallace"
   },
   {
-    "cfId": 8712,
-    "fullName": "Casper Ware"
-  },
-  {
     "cfId": 7530,
     "fullName": "Cedi Osman"
   },
   {
-    "cfId": 2013,
-    "fullName": "Cedric Ceballos"
+    "cfId": 19946,
+    "fullName": "Cedric Coward"
   },
   {
-    "cfId": 8018,
-    "fullName": "Charles Barkley"
+    "cfId": 5583,
+    "fullName": "Chad Faulk"
+  },
+  {
+    "cfId": 5540,
+    "fullName": "Chad Thorpe"
+  },
+  {
+    "cfId": 20017,
+    "fullName": "Chaney Johnson"
   },
   {
     "cfId": 19352,
@@ -740,20 +932,36 @@
     "fullName": "Charles Bediako"
   },
   {
-    "cfId": 185,
-    "fullName": "Charles Oakley"
+    "cfId": 5150,
+    "fullName": "Charles Dailey"
   },
   {
-    "cfId": 2035,
-    "fullName": "Charles Smith"
+    "cfId": 5150,
+    "fullName": "Charles Dailey"
   },
   {
-    "cfId": 34671,
-    "fullName": "Charles Terrell"
+    "cfId": 5150,
+    "fullName": "Charles Dailey"
+  },
+  {
+    "cfId": 5597,
+    "fullName": "Charles Dailey"
+  },
+  {
+    "cfId": 5553,
+    "fullName": "Charles Lee"
+  },
+  {
+    "cfId": 5553,
+    "fullName": "Charles Lee"
   },
   {
     "cfId": 19087,
     "fullName": "Charlie Brown Jr."
+  },
+  {
+    "cfId": 20043,
+    "fullName": "Chase Hunter"
   },
   {
     "cfId": 2905,
@@ -764,8 +972,12 @@
     "fullName": "Chasson Randle"
   },
   {
-    "cfId": 19387,
-    "fullName": "Chaundee Brown Jr."
+    "cfId": 5080,
+    "fullName": "Chauncey Billups"
+  },
+  {
+    "cfId": 19972,
+    "fullName": "Chaz Lanier"
   },
   {
     "cfId": 19401,
@@ -776,44 +988,56 @@
     "fullName": "Chimezie Metu"
   },
   {
-    "cfId": 35930,
-    "fullName": "Chip Smith"
+    "cfId": 5148,
+    "fullName": "Chris Atkins"
+  },
+  {
+    "cfId": 5533,
+    "fullName": "Chris Atkins"
   },
   {
     "cfId": 17079,
     "fullName": "Chris Boucher"
   },
   {
-    "cfId": 17502,
-    "fullName": "Chris Chiozza"
+    "cfId": 20626,
+    "fullName": "Chris Cenac Jr."
   },
   {
     "cfId": 19312,
     "fullName": "Chris Duarte"
   },
   {
+    "cfId": 8041,
+    "fullName": "Chris Finch"
+  },
+  {
     "cfId": 19657,
     "fullName": "Chris Livingston"
   },
   {
-    "cfId": 1146,
-    "fullName": "Chris Mullin"
+    "cfId": 20029,
+    "fullName": "Chris Mañon"
   },
   {
     "cfId": 1259,
     "fullName": "Chris Paul"
   },
   {
-    "cfId": 2147,
-    "fullName": "Chris Singleton"
+    "cfId": 1502,
+    "fullName": "Chris Quinn"
   },
   {
-    "cfId": 2088,
-    "fullName": "Chris Webber"
+    "cfId": 5509,
+    "fullName": "Chris Quinn"
   },
   {
-    "cfId": 19080,
-    "fullName": "Christ Koumadje"
+    "cfId": 20046,
+    "fullName": "Chris Youngblood"
+  },
+  {
+    "cfId": 20617,
+    "fullName": "Christian Anderson Jr."
   },
   {
     "cfId": 19420,
@@ -824,48 +1048,68 @@
     "fullName": "Christian Koloko"
   },
   {
+    "cfId": 20044,
+    "fullName": "Christian Shumate"
+  },
+  {
     "cfId": 7576,
     "fullName": "Christian Wood"
   },
   {
-    "cfId": 2074,
-    "fullName": "Chuck Person"
+    "cfId": 5565,
+    "fullName": "Christian Wright"
   },
   {
-    "cfId": 4115,
-    "fullName": "Chucky Brown"
+    "cfId": 20009,
+    "fullName": "Chucky Hepburn"
   },
   {
     "cfId": 19015,
     "fullName": "Chuma Okeke"
   },
   {
-    "cfId": 1954,
-    "fullName": "Clemon Johnson"
+    "cfId": 20007,
+    "fullName": "CJ Huntley"
   },
   {
-    "cfId": 1771,
-    "fullName": "Cliff Levingston"
+    "cfId": 5532,
+    "fullName": "Clark Waller"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Clark Waller"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Clark Waller"
+  },
+  {
+    "cfId": 5567,
+    "fullName": "Clay Davidson"
+  },
+  {
+    "cfId": 5588,
+    "fullName": "Clay Lucas"
+  },
+  {
+    "cfId": 5532,
+    "fullName": "Clay Thomas"
+  },
+  {
+    "cfId": 5573,
+    "fullName": "Clay Vincent"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Cliff Grant"
   },
   {
     "cfId": 2762,
     "fullName": "Cliff Paul"
   },
   {
-    "cfId": 386,
-    "fullName": "Cliff Robinson"
-  },
-  {
     "cfId": 4679,
     "fullName": "Clint Capela"
-  },
-  {
-    "cfId": 1951,
-    "fullName": "Clint Richardson"
-  },
-  {
-    "cfId": 777,
-    "fullName": "Clyde Drexler"
   },
   {
     "cfId": 19006,
@@ -892,12 +1136,8 @@
     "fullName": "Cole Anthony"
   },
   {
-    "cfId": 19472,
-    "fullName": "Cole Swider"
-  },
-  {
-    "cfId": 19845,
-    "fullName": "Coleman Hawkins"
+    "cfId": 5543,
+    "fullName": "Cole Harper"
   },
   {
     "cfId": 19660,
@@ -908,36 +1148,60 @@
     "fullName": "Collin Gillespie"
   },
   {
+    "cfId": 19944,
+    "fullName": "Collin Murray-Boyles"
+  },
+  {
     "cfId": 17407,
     "fullName": "Collin Sexton"
+  },
+  {
+    "cfId": 19936,
+    "fullName": "Cooper Flagg"
+  },
+  {
+    "cfId": 1416,
+    "fullName": "Corey Brewer"
   },
   {
     "cfId": 19314,
     "fullName": "Corey Kispert"
   },
   {
-    "cfId": 2044,
-    "fullName": "Cormac Ryan"
+    "cfId": 177,
+    "fullName": "Corliss Williamson"
   },
   {
-    "cfId": 36175,
-    "fullName": "Cory Blake"
+    "cfId": 2044,
+    "fullName": "Cormac Ryan"
   },
   {
     "cfId": 2164,
     "fullName": "Cory Joseph"
   },
   {
-    "cfId": 1740,
-    "fullName": "Craig Ehlo"
+    "cfId": 5565,
+    "fullName": "Craig Asher"
+  },
+  {
+    "cfId": 5598,
+    "fullName": "Craig Dixon"
   },
   {
     "cfId": 19686,
     "fullName": "Craig Porter Jr."
   },
   {
-    "cfId": 19920,
-    "fullName": "Cui Yongxi"
+    "cfId": 5532,
+    "fullName": "Curtis Ash"
+  },
+  {
+    "cfId": 5599,
+    "fullName": "Curtis Graham"
+  },
+  {
+    "cfId": 20028,
+    "fullName": "Curtis Jones"
   },
   {
     "cfId": 7501,
@@ -956,20 +1220,16 @@
     "fullName": "D.J. Wilson"
   },
   {
-    "cfId": 20352,
-    "fullName": "DJ Steward"
-  },
-  {
-    "cfId": 19112,
-    "fullName": "DaQuan Jeffries"
-  },
-  {
-    "cfId": 19859,
-    "fullName": "DaRon Holmes II"
-  },
-  {
     "cfId": 10406,
     "fullName": "Daeqwon Plowden"
+  },
+  {
+    "cfId": 20614,
+    "fullName": "Dailyn Swain"
+  },
+  {
+    "cfId": 20040,
+    "fullName": "Dain Dainja"
   },
   {
     "cfId": 19370,
@@ -984,8 +1244,8 @@
     "fullName": "Dalano Banton"
   },
   {
-    "cfId": 2031,
-    "fullName": "Dale Davis"
+    "cfId": 5575,
+    "fullName": "Dale Hughes"
   },
   {
     "cfId": 19417,
@@ -1004,8 +1264,8 @@
     "fullName": "Damian Lillard"
   },
   {
-    "cfId": 4757,
-    "fullName": "Damien Inglis"
+    "cfId": 5533,
+    "fullName": "Damien Bell"
   },
   {
     "cfId": 10510,
@@ -1016,8 +1276,48 @@
     "fullName": "Damion Lee"
   },
   {
-    "cfId": 1215,
+    "cfId": 5559,
+    "fullName": "Damon Howard"
+  },
+  {
+    "cfId": 5560,
+    "fullName": "Damon Porter"
+  },
+  {
+    "cfId": 301,
+    "fullName": "Damon Stoudamire"
+  },
+  {
+    "cfId": 5589,
+    "fullName": "Dan Anderson"
+  },
+  {
+    "cfId": 5116,
+    "fullName": "Dan D'Antoni"
+  },
+  {
+    "cfId": 5550,
+    "fullName": "Dan Gregory"
+  },
+  {
+    "cfId": 5570,
+    "fullName": "Dan Hicks"
+  },
+  {
+    "cfId": 5589,
+    "fullName": "Dan Hunter"
+  },
+  {
+    "cfId": 5143,
     "fullName": "Dan Majerle"
+  },
+  {
+    "cfId": 5569,
+    "fullName": "Dan Thorpe"
+  },
+  {
+    "cfId": 5542,
+    "fullName": "Dana Toole"
   },
   {
     "cfId": 10542,
@@ -1028,12 +1328,12 @@
     "fullName": "Daniel Gafford"
   },
   {
-    "cfId": 2613,
-    "fullName": "Daniel Hackett"
+    "cfId": 5592,
+    "fullName": "Daniel Moore"
   },
   {
-    "cfId": 19232,
-    "fullName": "Daniel Oturu"
+    "cfId": 5583,
+    "fullName": "Daniel Rogers"
   },
   {
     "cfId": 17060,
@@ -1048,16 +1348,20 @@
     "fullName": "Daniss Jenkins"
   },
   {
-    "cfId": 1731,
-    "fullName": "Danny Ainge"
+    "cfId": 5530,
+    "fullName": "Danny Roberts"
   },
   {
-    "cfId": 1652,
-    "fullName": "Danny Green"
+    "cfId": 5542,
+    "fullName": "Danny Roberts"
   },
   {
-    "cfId": 34170,
-    "fullName": "Danny Washington Jr."
+    "cfId": 5534,
+    "fullName": "Danny Williams"
+  },
+  {
+    "cfId": 19962,
+    "fullName": "Danny Wolf"
   },
   {
     "cfId": 4507,
@@ -1068,8 +1372,8 @@
     "fullName": "Danuel House Jr."
   },
   {
-    "cfId": 2906,
-    "fullName": "Dario Brizuela"
+    "cfId": 19112,
+    "fullName": "DaQuan Jeffries"
   },
   {
     "cfId": 4520,
@@ -1078,6 +1382,10 @@
   {
     "cfId": 19621,
     "fullName": "Dariq Whitehead"
+  },
+  {
+    "cfId": 20606,
+    "fullName": "Darius Acuff Jr."
   },
   {
     "cfId": 19022,
@@ -1096,44 +1404,56 @@
     "fullName": "Darius Garland"
   },
   {
-    "cfId": 8490,
-    "fullName": "Darnell Mee"
+    "cfId": 8042,
+    "fullName": "Darko Rajakovic"
   },
   {
-    "cfId": 35935,
-    "fullName": "Darrel Jones"
+    "cfId": 19859,
+    "fullName": "DaRon Holmes"
   },
   {
-    "cfId": 36062,
-    "fullName": "Darrell Green"
+    "cfId": 5131,
+    "fullName": "Darrell Walker"
   },
   {
-    "cfId": 35776,
-    "fullName": "Darren Hendricks"
+    "cfId": 20601,
+    "fullName": "Darryn Peterson"
   },
   {
-    "cfId": 1985,
-    "fullName": "Darryl Dawkins"
+    "cfId": 68,
+    "fullName": "Darvin Ham"
   },
   {
-    "cfId": 2747,
-    "fullName": "Datu Adas"
+    "cfId": 5565,
+    "fullName": "Dave Foster"
   },
   {
-    "cfId": 19117,
-    "fullName": "Daulton Hommes"
+    "cfId": 5069,
+    "fullName": "David Adelman"
   },
   {
-    "cfId": 1729,
-    "fullName": "Dave Corzine"
+    "cfId": 2109,
+    "fullName": "David Burchanowski"
   },
   {
-    "cfId": 1945,
-    "fullName": "Dave DeBusschere"
+    "cfId": 1367,
+    "fullName": "David Copelovici"
   },
   {
     "cfId": 19362,
     "fullName": "David Duke Jr."
+  },
+  {
+    "cfId": 5105,
+    "fullName": "David Fizdale"
+  },
+  {
+    "cfId": 5101,
+    "fullName": "David Gil"
+  },
+  {
+    "cfId": 5580,
+    "fullName": "David Green"
   },
   {
     "cfId": 19346,
@@ -1141,23 +1461,23 @@
   },
   {
     "cfId": 10610,
-    "fullName": "David Jones"
+    "fullName": "David Jones-Garcia"
   },
   {
-    "cfId": 2219,
-    "fullName": "David Miller"
+    "cfId": 974,
+    "fullName": "David Lee"
+  },
+  {
+    "cfId": 5582,
+    "fullName": "David Mills"
   },
   {
     "cfId": 10560,
     "fullName": "David Muoka"
   },
   {
-    "cfId": 8784,
-    "fullName": "David Nwaba"
-  },
-  {
-    "cfId": 959,
-    "fullName": "David Robinson"
+    "cfId": 5565,
+    "fullName": "David Perry"
   },
   {
     "cfId": 19422,
@@ -1168,8 +1488,8 @@
     "fullName": "David Stockton"
   },
   {
-    "cfId": 2003,
-    "fullName": "David Wingate"
+    "cfId": 5134,
+    "fullName": "David Vanterpool"
   },
   {
     "cfId": 19308,
@@ -1178,6 +1498,10 @@
   {
     "cfId": 8771,
     "fullName": "Davis Bertans"
+  },
+  {
+    "cfId": 20032,
+    "fullName": "Dawson Garcia"
   },
   {
     "cfId": 19328,
@@ -1192,6 +1516,18 @@
     "fullName": "De'Anthony Melton"
   },
   {
+    "cfId": 5116,
+    "fullName": "Dean Hamilton"
+  },
+  {
+    "cfId": 5545,
+    "fullName": "Dean Hamilton"
+  },
+  {
+    "cfId": 19083,
+    "fullName": "Dean Wade"
+  },
+  {
     "cfId": 17400,
     "fullName": "DeAndre Ayton"
   },
@@ -1204,52 +1540,36 @@
     "fullName": "DeAndre Jordan"
   },
   {
+    "cfId": 20049,
+    "fullName": "Deivon Smith"
+  },
+  {
+    "cfId": 5097,
+    "fullName": "Dejan Radonjić"
+  },
+  {
     "cfId": 19391,
     "fullName": "DeJon Jarreau"
-  },
-  {
-    "cfId": 1605,
-    "fullName": "DeMar DeRozan"
-  },
-  {
-    "cfId": 19263,
-    "fullName": "DeVon Dotson"
-  },
-  {
-    "cfId": 19083,
-    "fullName": "Dean Wade"
   },
   {
     "cfId": 17397,
     "fullName": "Dejounte Murray"
   },
   {
-    "cfId": 1999,
-    "fullName": "Dell Curry"
-  },
-  {
     "cfId": 7519,
     "fullName": "Delon Wright"
+  },
+  {
+    "cfId": 1605,
+    "fullName": "DeMar DeRozan"
   },
   {
     "cfId": 19208,
     "fullName": "Deni Avdija"
   },
   {
-    "cfId": 1730,
-    "fullName": "Dennis Johnson"
-  },
-  {
-    "cfId": 1743,
-    "fullName": "Dennis Rodman"
-  },
-  {
     "cfId": 2703,
     "fullName": "Dennis Schroder"
-  },
-  {
-    "cfId": 2042,
-    "fullName": "Dennis Scott"
   },
   {
     "cfId": 17008,
@@ -1260,36 +1580,20 @@
     "fullName": "Dereck Lively II"
   },
   {
-    "cfId": 2067,
-    "fullName": "Derek Fisher"
-  },
-  {
-    "cfId": 1756,
-    "fullName": "Derek Harper"
+    "cfId": 5538,
+    "fullName": "Derek Sandford"
   },
   {
     "cfId": 19466,
     "fullName": "Dereon Seabron"
   },
   {
-    "cfId": 36207,
-    "fullName": "Deron Drew"
+    "cfId": 19948,
+    "fullName": "Derik Queen"
   },
   {
     "cfId": 8773,
     "fullName": "Derrick Jones Jr."
-  },
-  {
-    "cfId": 272,
-    "fullName": "Derrick McKey"
-  },
-  {
-    "cfId": 1507,
-    "fullName": "Derrick Rose"
-  },
-  {
-    "cfId": 17061,
-    "fullName": "Derrick Walton Jr."
   },
   {
     "cfId": 17028,
@@ -1312,16 +1616,8 @@
     "fullName": "Devin Carter"
   },
   {
-    "cfId": 35629,
-    "fullName": "Devin Ingram"
-  },
-  {
     "cfId": 19210,
     "fullName": "Devin Vassell"
-  },
-  {
-    "cfId": 17452,
-    "fullName": "Devon Hall"
   },
   {
     "cfId": 10581,
@@ -1332,24 +1628,8 @@
     "fullName": "Devonte Graham"
   },
   {
-    "cfId": 8700,
-    "fullName": "Dewayne Dedmon"
-  },
-  {
     "cfId": 19703,
     "fullName": "Dexter Dennis"
-  },
-  {
-    "cfId": 1921,
-    "fullName": "Dick Barnett"
-  },
-  {
-    "cfId": 1934,
-    "fullName": "Dick Cunningham"
-  },
-  {
-    "cfId": 2029,
-    "fullName": "Dikembe Mutombo"
   },
   {
     "cfId": 17044,
@@ -1360,28 +1640,44 @@
     "fullName": "Dillon Jones"
   },
   {
-    "cfId": 2675,
-    "fullName": "Dimitris Drakos"
+    "cfId": 5581,
+    "fullName": "Dillon Malone"
   },
   {
-    "cfId": 2917,
-    "fullName": "Dinos Mitoglou"
+    "cfId": 20639,
+    "fullName": "Dillon Mitchell"
+  },
+  {
+    "cfId": 5582,
+    "fullName": "Dillon Williamson"
+  },
+  {
+    "cfId": 5140,
+    "fullName": "Dimitris Itoudis"
+  },
+  {
+    "cfId": 20015,
+    "fullName": "Dink Pate"
   },
   {
     "cfId": 1396,
     "fullName": "Dion Peete"
   },
   {
+    "cfId": 1396,
+    "fullName": "Dion Peete"
+  },
+  {
+    "cfId": 19926,
+    "fullName": "DJ Steward"
+  },
+  {
     "cfId": 10477,
     "fullName": "Dmytro Skapintsev"
   },
   {
-    "cfId": 1738,
+    "cfId": 5003,
     "fullName": "Doc Rivers"
-  },
-  {
-    "cfId": 2947,
-    "fullName": "Dogus Balbay"
   },
   {
     "cfId": 6431,
@@ -1392,16 +1688,16 @@
     "fullName": "Dominick Barlow"
   },
   {
-    "cfId": 1321,
-    "fullName": "Dominique Wilkins"
+    "cfId": 5556,
+    "fullName": "Don Hale"
   },
   {
-    "cfId": 1928,
-    "fullName": "Don Nelson"
+    "cfId": 5534,
+    "fullName": "Don Trueman"
   },
   {
-    "cfId": 33516,
-    "fullName": "Donald Sharp"
+    "cfId": 5587,
+    "fullName": "Don Yau"
   },
   {
     "cfId": 19835,
@@ -1410,10 +1706,6 @@
   {
     "cfId": 17012,
     "fullName": "Donovan Mitchell"
-  },
-  {
-    "cfId": 19491,
-    "fullName": "Donovan Williams"
   },
   {
     "cfId": 10632,
@@ -1428,44 +1720,60 @@
     "fullName": "Dorian Finney-Smith"
   },
   {
-    "cfId": 2338,
+    "cfId": 2111,
+    "fullName": "Doron Perkins"
+  },
+  {
+    "cfId": 8048,
     "fullName": "Doug Christie"
   },
   {
-    "cfId": 2300,
-    "fullName": "Doug Collins"
+    "cfId": 8048,
+    "fullName": "Doug Christie"
   },
   {
     "cfId": 4515,
     "fullName": "Doug McDermott"
   },
   {
-    "cfId": 17314,
-    "fullName": "Dragan Bender"
+    "cfId": 5580,
+    "fullName": "Doug Reid"
   },
   {
-    "cfId": 34856,
-    "fullName": "Drake Langford"
+    "cfId": 19957,
+    "fullName": "Drake Powell"
   },
   {
     "cfId": 2478,
     "fullName": "Draymond Green"
   },
   {
-    "cfId": 36050,
-    "fullName": "Draymond White"
+    "cfId": 5594,
+    "fullName": "Drew Baker"
+  },
+  {
+    "cfId": 5565,
+    "fullName": "Drew Cook"
   },
   {
     "cfId": 17498,
     "fullName": "Drew Eubanks"
   },
   {
+    "cfId": 5536,
+    "fullName": "Drew Ford"
+  },
+  {
+    "cfId": 5507,
+    "fullName": "Drew Graham"
+  },
+  {
     "cfId": 19691,
     "fullName": "Drew Peterson"
   },
   {
-    "cfId": 35089,
-    "fullName": "Drew Shepard"
+    "cfId": 5531,
+    "fullName": "Drew Samuels"
   },
   {
     "cfId": 19675,
@@ -1488,107 +1796,103 @@
     "fullName": "Duop Reath"
   },
   {
-    "cfId": 35508,
-    "fullName": "Dusan Bogdanovic"
-  },
-  {
-    "cfId": 1150,
-    "fullName": "Dwight Howard"
+    "cfId": 5042,
+    "fullName": "Dwane Casey"
   },
   {
     "cfId": 4537,
     "fullName": "Dwight Powell"
   },
   {
-    "cfId": 34731,
-    "fullName": "Dylan Brady"
+    "cfId": 19998,
+    "fullName": "Dylan Cardwell"
   },
   {
     "cfId": 10614,
     "fullName": "Dylan Disu"
   },
   {
-    "cfId": 19025,
-    "fullName": "Dylan Windler"
+    "cfId": 19937,
+    "fullName": "Dylan Harper"
   },
   {
-    "cfId": 2935,
-    "fullName": "Dyshawn Pierre"
+    "cfId": 19025,
+    "fullName": "Dylan Windler"
   },
   {
     "cfId": 19407,
     "fullName": "Dyson Daniels"
   },
   {
-    "cfId": 17428,
-    "fullName": "Dzanan Musa"
-  },
-  {
-    "cfId": 10642,
-    "fullName": "E.J. Harkless"
-  },
-  {
     "cfId": 19440,
     "fullName": "E.J. Liddell"
   },
   {
-    "cfId": 747,
-    "fullName": "Earl Monroe"
+    "cfId": 5589,
+    "fullName": "Earl Cook"
   },
   {
-    "cfId": 1772,
-    "fullName": "Ed Nealy"
+    "cfId": 5544,
+    "fullName": "Earl Wells"
   },
   {
-    "cfId": 2062,
-    "fullName": "Eddie Jones"
+    "cfId": 20616,
+    "fullName": "Ebuka Okorie"
   },
   {
-    "cfId": 35994,
-    "fullName": "Edgar Lawson"
+    "cfId": 5578,
+    "fullName": "Ed Jacobs"
   },
   {
-    "cfId": 34820,
-    "fullName": "Edgar Terry"
+    "cfId": 5505,
+    "fullName": "Ed Lacerte"
   },
   {
-    "cfId": 2933,
-    "fullName": "Edgaras Ulanovas"
+    "cfId": 5537,
+    "fullName": "Ed Trust"
   },
   {
-    "cfId": 17051,
-    "fullName": "Edmond Sumner"
+    "cfId": 5568,
+    "fullName": "Eddie Banks"
   },
   {
-    "cfId": 7563,
-    "fullName": "Edy Tavares"
+    "cfId": 5544,
+    "fullName": "Eddie Chase"
   },
   {
-    "cfId": 2674,
-    "fullName": "Ekon Okoye"
+    "cfId": 5554,
+    "fullName": "Eddie Chase"
   },
   {
-    "cfId": 1806,
-    "fullName": "Ekpe Udoh"
+    "cfId": 5556,
+    "fullName": "Eddie Chase"
   },
   {
-    "cfId": 2063,
-    "fullName": "Elden Campbell"
+    "cfId": 5566,
+    "fullName": "Eddie Randolph"
+  },
+  {
+    "cfId": 5579,
+    "fullName": "Eddie Woods"
+  },
+  {
+    "cfId": 5567,
+    "fullName": "Edward Monroe"
+  },
+  {
+    "cfId": 19943,
+    "fullName": "Egor Demin"
   },
   {
     "cfId": 4525,
     "fullName": "Elfrid Payton"
   },
   {
-    "cfId": 732,
-    "fullName": "Elgin Baylor"
+    "cfId": 20002,
+    "fullName": "Eli John Ndiaye"
   },
   {
-    "cfId": 2931,
-    "fullName": "Elijah Bryant"
-  },
-  {
-    "cfId": 21456,
+    "cfId": 10642,
     "fullName": "Elijah Harkless"
   },
   {
@@ -1600,6 +1904,10 @@
     "fullName": "Emanuel Miller"
   },
   {
+    "cfId": 20644,
+    "fullName": "Emanuel Sharp"
+  },
+  {
     "cfId": 19648,
     "fullName": "Emoni Bates"
   },
@@ -1608,7 +1916,15 @@
     "fullName": "Enrique Freeman"
   },
   {
-    "cfId": 19877,
+    "cfId": 5047,
+    "fullName": "Ergin Ataman"
+  },
+  {
+    "cfId": 1867,
+    "fullName": "Eric Dillard"
+  },
+  {
+    "cfId": 20011,
     "fullName": "Eric Dixon"
   },
   {
@@ -1616,40 +1932,104 @@
     "fullName": "Eric Gordon"
   },
   {
-    "cfId": 329,
-    "fullName": "Eric Snow"
+    "cfId": 5531,
+    "fullName": "Eric Saunders"
+  },
+  {
+    "cfId": 5555,
+    "fullName": "Eric Strum"
+  },
+  {
+    "cfId": 5529,
+    "fullName": "Eric Waters"
   },
   {
     "cfId": 1402,
     "fullName": "Erick Boenisch"
   },
   {
-    "cfId": 34985,
-    "fullName": "Erik Howard"
+    "cfId": 1402,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 1402,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 1402,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 1402,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 1402,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 5544,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Erick Boenisch"
+  },
+  {
+    "cfId": 5532,
+    "fullName": "Erick Joseph"
+  },
+  {
+    "cfId": 20052,
+    "fullName": "Erik Reynolds II"
+  },
+  {
+    "cfId": 5005,
+    "fullName": "Erik Spoelstra"
   },
   {
     "cfId": 10546,
     "fullName": "Erik Stevenson"
   },
   {
-    "cfId": 36246,
-    "fullName": "Ernesto Garibaldi"
-  },
-  {
-    "cfId": 2052,
-    "fullName": "Ervin Johnson"
-  },
-  {
-    "cfId": 34675,
-    "fullName": "Ervin Wilcox"
+    "cfId": 5586,
+    "fullName": "Ernie Gregory"
   },
   {
     "cfId": 19397,
     "fullName": "Ethan Thompson"
   },
   {
+    "cfId": 5091,
+    "fullName": "Ettore Messina"
+  },
+  {
     "cfId": 19388,
     "fullName": "Eugene Omoruyi"
+  },
+  {
+    "cfId": 5534,
+    "fullName": "Eugene Petit"
+  },
+  {
+    "cfId": 5592,
+    "fullName": "Eugene Petit"
   },
   {
     "cfId": 2463,
@@ -1660,28 +2040,24 @@
     "fullName": "Evan Mobley"
   },
   {
-    "cfId": 2903,
-    "fullName": "Facundo Campazzo"
+    "cfId": 20030,
+    "fullName": "Fanbo Zeng"
   },
   {
-    "cfId": 19384,
-    "fullName": "Feron Hunt"
+    "cfId": 20645,
+    "fullName": "Felix Okpara"
   },
   {
-    "cfId": 19349,
-    "fullName": "Filip Petrusev"
+    "cfId": 2551,
+    "fullName": "Fernando San Emeterio"
   },
   {
-    "cfId": 1980,
-    "fullName": "Frank Brickowski"
+    "cfId": 5543,
+    "fullName": "Frank Bryant"
   },
   {
-    "cfId": 17030,
-    "fullName": "Frank Jackson"
-  },
-  {
-    "cfId": 2014,
-    "fullName": "Frank Johnson"
+    "cfId": 5578,
+    "fullName": "Frank Harrison"
   },
   {
     "cfId": 7508,
@@ -1692,24 +2068,48 @@
     "fullName": "Frank Ntilikina"
   },
   {
-    "cfId": 35780,
-    "fullName": "Frankie Lowry"
+    "cfId": 5539,
+    "fullName": "Frank Taylor"
+  },
+  {
+    "cfId": 5187,
+    "fullName": "Frank Vogel"
+  },
+  {
+    "cfId": 5187,
+    "fullName": "Frank Vogel"
+  },
+  {
+    "cfId": 5590,
+    "fullName": "Frank Wilkins"
   },
   {
     "cfId": 19307,
     "fullName": "Franz Wagner"
   },
   {
+    "cfId": 5538,
+    "fullName": "Fred Staples"
+  },
+  {
+    "cfId": 5503,
+    "fullName": "Fred Tedeschi"
+  },
+  {
     "cfId": 8768,
     "fullName": "Fred VanVleet"
+  },
+  {
+    "cfId": 8034,
+    "fullName": "Fred Vinson"
   },
   {
     "cfId": 6501,
     "fullName": "Furkan Korkmaz"
   },
   {
-    "cfId": 19644,
-    "fullName": "GG Jackson II"
+    "cfId": 20041,
+    "fullName": "Gabe Madsen"
   },
   {
     "cfId": 10633,
@@ -1720,28 +2120,12 @@
     "fullName": "Gabe Osabuohein"
   },
   {
+    "cfId": 5575,
+    "fullName": "Gabe Thomas"
+  },
+  {
     "cfId": 17509,
     "fullName": "Gabe Vincent"
-  },
-  {
-    "cfId": 8871,
-    "fullName": "Gabe York"
-  },
-  {
-    "cfId": 17084,
-    "fullName": "Gabriel Deck"
-  },
-  {
-    "cfId": 17391,
-    "fullName": "Gabriel Lundberg"
-  },
-  {
-    "cfId": 19435,
-    "fullName": "Gabriele Procida"
-  },
-  {
-    "cfId": 757,
-    "fullName": "Gail Goodrich"
   },
   {
     "cfId": 10150,
@@ -1753,99 +2137,163 @@
   },
   {
     "cfId": 19104,
-    "fullName": "Garrison Mathews"
+    "fullName": "Garrison Matthews"
   },
   {
-    "cfId": 17485,
-    "fullName": "Gary Clark"
+    "cfId": 5540,
+    "fullName": "Gary Adams"
+  },
+  {
+    "cfId": 5511,
+    "fullName": "Gary Briggs"
+  },
+  {
+    "cfId": 5575,
+    "fullName": "Gary Brown"
+  },
+  {
+    "cfId": 5582,
+    "fullName": "Gary Button"
+  },
+  {
+    "cfId": 5590,
+    "fullName": "Gary Green"
   },
   {
     "cfId": 4511,
     "fullName": "Gary Harris"
   },
   {
-    "cfId": 34844,
-    "fullName": "Gary Newton"
+    "cfId": 5536,
+    "fullName": "Gary Hunter"
   },
   {
-    "cfId": 326,
-    "fullName": "Gary Payton"
+    "cfId": 5594,
+    "fullName": "Gary Hunter"
+  },
+  {
+    "cfId": 5563,
+    "fullName": "Gary Jackson"
+  },
+  {
+    "cfId": 5585,
+    "fullName": "Gary Mills"
   },
   {
     "cfId": 8788,
     "fullName": "Gary Payton II"
   },
   {
+    "cfId": 5539,
+    "fullName": "Gary Reed"
+  },
+  {
     "cfId": 17436,
     "fullName": "Gary Trent Jr."
   },
   {
-    "cfId": 744,
-    "fullName": "George Gervin"
+    "cfId": 5514,
+    "fullName": "Gary Vitti"
   },
   {
-    "cfId": 1531,
-    "fullName": "George Hill"
+    "cfId": 5590,
+    "fullName": "George Green"
   },
   {
-    "cfId": 1955,
-    "fullName": "George Johnson"
+    "cfId": 5108,
+    "fullName": "George Jackson"
   },
   {
-    "cfId": 102,
-    "fullName": "George Lynch"
+    "cfId": 5592,
+    "fullName": "George Jackson"
+  },
+  {
+    "cfId": 5012,
+    "fullName": "George Karl"
+  },
+  {
+    "cfId": 5570,
+    "fullName": "George Spencer"
   },
   {
     "cfId": 17336,
     "fullName": "Georges Niang"
   },
   {
-    "cfId": 17390,
-    "fullName": "Georgios Papagiannis"
+    "cfId": 5095,
+    "fullName": "Georgios Bartzokas"
   },
   {
-    "cfId": 834,
-    "fullName": "Gerald Wallace"
+    "cfId": 1595,
+    "fullName": "Georgios Vovoras"
   },
   {
-    "cfId": 35956,
-    "fullName": "Gerard Jefferson"
+    "cfId": 5587,
+    "fullName": "Gerald Ellis"
+  },
+  {
+    "cfId": 5138,
+    "fullName": "Gerald Spencer"
+  },
+  {
+    "cfId": 5541,
+    "fullName": "Gerald Spencer"
+  },
+  {
+    "cfId": 19644,
+    "fullName": "GG Jackson II"
   },
   {
     "cfId": 2701,
     "fullName": "Giannis Antetokounmpo"
   },
   {
-    "cfId": 2927,
-    "fullName": "Giannoulis Larentzakis"
+    "cfId": 5572,
+    "fullName": "Gilbert Davis"
   },
   {
-    "cfId": 34583,
-    "fullName": "Gilbert Barton"
+    "cfId": 1368,
+    "fullName": "Gintaras Krapikas"
+  },
+  {
+    "cfId": 5097,
+    "fullName": "Glen Montgomery"
+  },
+  {
+    "cfId": 5549,
+    "fullName": "Glen Montgomery"
+  },
+  {
+    "cfId": 5542,
+    "fullName": "Glen Reeves"
+  },
+  {
+    "cfId": 5552,
+    "fullName": "Glen Reeves"
+  },
+  {
+    "cfId": 5554,
+    "fullName": "Glen Reeves"
   },
   {
     "cfId": 19017,
     "fullName": "Goga Bitadze"
   },
   {
-    "cfId": 1555,
-    "fullName": "Goran Dragic"
-  },
-  {
-    "cfId": 1809,
-    "fullName": "Gordon Hayward"
-  },
-  {
-    "cfId": 2707,
-    "fullName": "Gorgui Dieng"
+    "cfId": 2112,
+    "fullName": "Goran Bjedov"
   },
   {
     "cfId": 19612,
     "fullName": "Gradey Dick"
   },
   {
-    "cfId": 19673,
-    "fullName": "Grant Sherfield"
+    "cfId": 5579,
+    "fullName": "Grant Cross"
+  },
+  {
+    "cfId": 20024,
+    "fullName": "Grant Nelson"
   },
   {
     "cfId": 19021,
@@ -1864,20 +2312,24 @@
     "fullName": "Greg Brown III"
   },
   {
-    "cfId": 2058,
-    "fullName": "Greg Foster"
+    "cfId": 5574,
+    "fullName": "Greg Dailey"
   },
   {
-    "cfId": 2055,
-    "fullName": "Greg Ostertag"
+    "cfId": 5540,
+    "fullName": "Greg Robinson"
   },
   {
-    "cfId": 1931,
+    "cfId": 5581,
     "fullName": "Greg Smith"
   },
   {
-    "cfId": 19644,
-    "fullName": "Gregory Jackson II"
+    "cfId": 504,
+    "fullName": "Greg Thomas"
+  },
+  {
+    "cfId": 5526,
+    "fullName": "Gregg Farnam"
   },
   {
     "cfId": 17393,
@@ -1888,20 +2340,24 @@
     "fullName": "Gui Santos"
   },
   {
-    "cfId": 2960,
-    "fullName": "Guillem Vives"
+    "cfId": 5553,
+    "fullName": "Guy Griffin"
   },
   {
-    "cfId": 952,
-    "fullName": "Hakeem Olajuwon"
+    "cfId": 5593,
+    "fullName": "Guy Murray"
   },
   {
     "cfId": 17444,
     "fullName": "Hamidou Diallo"
   },
   {
-    "cfId": 91,
-    "fullName": "Happy Hairston"
+    "cfId": 20613,
+    "fullName": "Hannes Steinbach"
+  },
+  {
+    "cfId": 19951,
+    "fullName": "Hansen Yang"
   },
   {
     "cfId": 2450,
@@ -1916,12 +2372,16 @@
     "fullName": "Harry Giles III"
   },
   {
-    "cfId": 35885,
-    "fullName": "Harry Ross"
+    "cfId": 5541,
+    "fullName": "Harry Hobson"
   },
   {
-    "cfId": 2304,
-    "fullName": "Harvey Catchings"
+    "cfId": 5541,
+    "fullName": "Harvey Baxter"
+  },
+  {
+    "cfId": 5599,
+    "fullName": "Harvey Baxter"
   },
   {
     "cfId": 10689,
@@ -1932,28 +2392,56 @@
     "fullName": "Haywood Highsmith"
   },
   {
-    "cfId": 2091,
-    "fullName": "Hedo Turkoglu"
-  },
-  {
     "cfId": 19502,
     "fullName": "Henri Drell"
   },
   {
-    "cfId": 2299,
-    "fullName": "Henry Bibby"
+    "cfId": 20651,
+    "fullName": "Henri Veesaar"
   },
   {
     "cfId": 17311,
     "fullName": "Henry Ellenson"
   },
   {
+    "cfId": 5555,
+    "fullName": "Henry Perkinson"
+  },
+  {
     "cfId": 19334,
     "fullName": "Herb Jones"
   },
   {
-    "cfId": 1735,
-    "fullName": "Horace Grant"
+    "cfId": 5114,
+    "fullName": "Herb Williams"
+  },
+  {
+    "cfId": 1400,
+    "fullName": "Herman Fok"
+  },
+  {
+    "cfId": 5530,
+    "fullName": "Howard Brown"
+  },
+  {
+    "cfId": 5585,
+    "fullName": "Howard Rowland"
+  },
+  {
+    "cfId": 5570,
+    "fullName": "Howard Stokes"
+  },
+  {
+    "cfId": 19963,
+    "fullName": "Hugo Gonzalez"
+  },
+  {
+    "cfId": 20003,
+    "fullName": "Hunter Dickinson"
+  },
+  {
+    "cfId": 20010,
+    "fullName": "Hunter Sallis"
   },
   {
     "cfId": 19636,
@@ -1964,28 +2452,28 @@
     "fullName": "Ibou Badji"
   },
   {
-    "cfId": 19046,
-    "fullName": "Ignas Brazdeikis"
+    "cfId": 20018,
+    "fullName": "Igor Milicic Jr."
+  },
+  {
+    "cfId": 1374,
+    "fullName": "Ime Udoka"
   },
   {
     "cfId": 19224,
     "fullName": "Immanuel Quickley"
   },
   {
-    "cfId": 2938,
-    "fullName": "Ioannis Papapetrou"
-  },
-  {
     "cfId": 19902,
     "fullName": "Isaac Jones"
   },
   {
-    "cfId": 19204,
-    "fullName": "Isaac Okoro"
+    "cfId": 19996,
+    "fullName": "Isaac Nogues"
   },
   {
-    "cfId": 2720,
-    "fullName": "Isaiah Canaan"
+    "cfId": 19204,
+    "fullName": "Isaac Okoro"
   },
   {
     "cfId": 19801,
@@ -1994,6 +2482,10 @@
   {
     "cfId": 19903,
     "fullName": "Isaiah Crawford"
+  },
+  {
+    "cfId": 20632,
+    "fullName": "Isaiah Evans"
   },
   {
     "cfId": 17042,
@@ -2020,28 +2512,16 @@
     "fullName": "Isaiah Mobley"
   },
   {
-    "cfId": 19044,
-    "fullName": "Isaiah Roby"
-  },
-  {
     "cfId": 10592,
-    "fullName": "Isaiah Smith"
-  },
-  {
-    "cfId": 21003,
     "fullName": "Isaiah Stevens"
   },
   {
     "cfId": 19215,
-    "fullName": "Isaiah Stewart"
+    "fullName": "Isaiah Stewart II"
   },
   {
     "cfId": 2210,
     "fullName": "Isaiah Thomas"
-  },
-  {
-    "cfId": 19330,
-    "fullName": "Isaiah Todd"
   },
   {
     "cfId": 19654,
@@ -2056,12 +2536,8 @@
     "fullName": "Ishmail Wainright"
   },
   {
-    "cfId": 767,
-    "fullName": "Isiah Thomas"
-  },
-  {
-    "cfId": 19445,
-    "fullName": "Ismael Kamagate"
+    "cfId": 5156,
+    "fullName": "Israel González"
   },
   {
     "cfId": 17389,
@@ -2072,20 +2548,32 @@
     "fullName": "Izaiah Brockington"
   },
   {
+    "cfId": 20650,
+    "fullName": "Izaiyah Nelson"
+  },
+  {
+    "cfId": 5149,
+    "fullName": "J.B. Bickerstaff"
+  },
+  {
     "cfId": 19452,
     "fullName": "J.D. Davison"
   },
   {
-    "cfId": 35581,
-    "fullName": "J.P. Wroten"
+    "cfId": 1550,
+    "fullName": "J.J. Barea"
+  },
+  {
+    "cfId": 8037,
+    "fullName": "J.J. Outlaw"
+  },
+  {
+    "cfId": 1344,
+    "fullName": "J.J. Redick"
   },
   {
     "cfId": 19336,
     "fullName": "J.T. Thor"
-  },
-  {
-    "cfId": 34572,
-    "fullName": "Ja Moran"
   },
   {
     "cfId": 19001,
@@ -2096,18 +2584,6 @@
     "fullName": "Ja'Kobe Walter"
   },
   {
-    "cfId": 8738,
-    "fullName": "JaMychal Green"
-  },
-  {
-    "cfId": 1524,
-    "fullName": "JaVale McGee"
-  },
-  {
-    "cfId": 4501,
-    "fullName": "Jabari Parker"
-  },
-  {
     "cfId": 19402,
     "fullName": "Jabari Smith Jr."
   },
@@ -2116,7 +2592,11 @@
     "fullName": "Jabari Walker"
   },
   {
-    "cfId": 24210,
+    "cfId": 20638,
+    "fullName": "Jack Kayil"
+  },
+  {
+    "cfId": 19934,
     "fullName": "Jack McVeigh"
   },
   {
@@ -2124,24 +2604,24 @@
     "fullName": "Jack White"
   },
   {
-    "cfId": 2747,
-    "fullName": "Jackson Ellis"
-  },
-  {
     "cfId": 19908,
     "fullName": "Jackson Rowe"
+  },
+  {
+    "cfId": 1598,
+    "fullName": "Jacob Adas"
   },
   {
     "cfId": 8873,
     "fullName": "Jacob Gilyard"
   },
   {
-    "cfId": 35114,
-    "fullName": "Jacob Summers"
-  },
-  {
     "cfId": 19676,
     "fullName": "Jacob Toppin"
+  },
+  {
+    "cfId": 20649,
+    "fullName": "Jaden Bradley"
   },
   {
     "cfId": 19436,
@@ -2180,6 +2660,10 @@
     "fullName": "Jahlil Okafor"
   },
   {
+    "cfId": 19994,
+    "fullName": "Jahmai Mashack"
+  },
+  {
     "cfId": 19242,
     "fullName": "Jahmi'us Ramsey"
   },
@@ -2188,12 +2672,12 @@
     "fullName": "Jahmir Young"
   },
   {
-    "cfId": 19617,
-    "fullName": "Jaime Jaquez Jr."
+    "cfId": 20037,
+    "fullName": "Jahmyl Telfort"
   },
   {
-    "cfId": 2949,
-    "fullName": "Jake Cohen"
+    "cfId": 19617,
+    "fullName": "Jaime Jaquez Jr."
   },
   {
     "cfId": 19418,
@@ -2244,10 +2728,6 @@
     "fullName": "Jalen Pickett"
   },
   {
-    "cfId": 274,
-    "fullName": "Jalen Rose"
-  },
-  {
     "cfId": 19653,
     "fullName": "Jalen Slawson"
   },
@@ -2268,8 +2748,8 @@
     "fullName": "Jalen Wilson"
   },
   {
-    "cfId": 34602,
-    "fullName": "Jamaal Stewart Jr."
+    "cfId": 8043,
+    "fullName": "Jamahl Mosley"
   },
   {
     "cfId": 19488,
@@ -2304,8 +2784,20 @@
     "fullName": "James Bouknight"
   },
   {
-    "cfId": 1745,
-    "fullName": "James Edwards"
+    "cfId": 5567,
+    "fullName": "James Daniels"
+  },
+  {
+    "cfId": 5598,
+    "fullName": "James Flory"
+  },
+  {
+    "cfId": 5156,
+    "fullName": "James Graham"
+  },
+  {
+    "cfId": 5590,
+    "fullName": "James Graham"
   },
   {
     "cfId": 1603,
@@ -2316,48 +2808,48 @@
     "fullName": "James Johnson"
   },
   {
-    "cfId": 19630,
-    "fullName": "James Nnaji"
+    "cfId": 5559,
+    "fullName": "James Long"
   },
   {
-    "cfId": 8848,
-    "fullName": "James Nunnally"
+    "cfId": 5571,
+    "fullName": "James Lucas"
   },
   {
-    "cfId": 2220,
-    "fullName": "James Smith"
+    "cfId": 5145,
+    "fullName": "James O'Brien"
   },
   {
-    "cfId": 8829,
-    "fullName": "James Webb III"
+    "cfId": 5542,
+    "fullName": "James O'Brien"
+  },
+  {
+    "cfId": 576,
+    "fullName": "James Posey"
+  },
+  {
+    "cfId": 576,
+    "fullName": "James Posey"
   },
   {
     "cfId": 19201,
     "fullName": "James Wiseman"
   },
   {
-    "cfId": 776,
-    "fullName": "James Worthy"
-  },
-  {
-    "cfId": 34943,
-    "fullName": "Jamie Allen"
-  },
-  {
     "cfId": 10598,
     "fullName": "Jamir Chaplin"
+  },
+  {
+    "cfId": 19978,
+    "fullName": "Jamir Watkins"
   },
   {
     "cfId": 19924,
     "fullName": "Jamison Battle"
   },
   {
-    "cfId": 19394,
-    "fullName": "Jamorko Pickett"
-  },
-  {
-    "cfId": 2129,
-    "fullName": "Jan Vesely"
+    "cfId": 993,
+    "fullName": "Jannero Pargo"
   },
   {
     "cfId": 19607,
@@ -2372,24 +2864,20 @@
     "fullName": "Jared Butler"
   },
   {
-    "cfId": 19102,
-    "fullName": "Jared Harper"
+    "cfId": 5583,
+    "fullName": "Jared Francis"
   },
   {
     "cfId": 19864,
     "fullName": "Jared McCain"
   },
   {
-    "cfId": 36031,
-    "fullName": "Jared Prince"
-  },
-  {
     "cfId": 19487,
     "fullName": "Jared Rhoden"
   },
   {
-    "cfId": 7524,
-    "fullName": "Jarell Martin"
+    "cfId": 5582,
+    "fullName": "Jared Rose"
   },
   {
     "cfId": 17403,
@@ -2404,6 +2892,10 @@
     "fullName": "Jarod Lucas"
   },
   {
+    "cfId": 20657,
+    "fullName": "Jaron Pierre Jr."
+  },
+  {
     "cfId": 17440,
     "fullName": "Jarred Vanderbilt"
   },
@@ -2416,16 +2908,48 @@
     "fullName": "Jarrett Culver"
   },
   {
-    "cfId": 823,
-    "fullName": "Jason Collins"
+    "cfId": 19960,
+    "fullName": "Jase Richardson"
   },
   {
-    "cfId": 226,
+    "cfId": 5506,
+    "fullName": "Jasen Powell"
+  },
+  {
+    "cfId": 5006,
     "fullName": "Jason Kidd"
   },
   {
     "cfId": 19332,
     "fullName": "Jason Preston"
+  },
+  {
+    "cfId": 5546,
+    "fullName": "Jason Sutton"
+  },
+  {
+    "cfId": 5556,
+    "fullName": "Jason Sutton"
+  },
+  {
+    "cfId": 5558,
+    "fullName": "Jason Sutton"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Jason Sutton"
+  },
+  {
+    "cfId": 600,
+    "fullName": "Jason Terry"
+  },
+  {
+    "cfId": 8046,
+    "fullName": "Jason Terry"
+  },
+  {
+    "cfId": 1524,
+    "fullName": "JaVale McGee"
   },
   {
     "cfId": 10499,
@@ -2438,6 +2962,10 @@
   {
     "cfId": 8874,
     "fullName": "Javon Freeman-Liberty"
+  },
+  {
+    "cfId": 19983,
+    "fullName": "Javon Small"
   },
   {
     "cfId": 10514,
@@ -2456,7 +2984,7 @@
     "fullName": "Jaxson Hayes"
   },
   {
-    "cfId": 19837,
+    "cfId": 20014,
     "fullName": "Jaxson Robinson"
   },
   {
@@ -2464,8 +2992,8 @@
     "fullName": "Jay Huff"
   },
   {
-    "cfId": 19254,
-    "fullName": "Jay Scrubb"
+    "cfId": 20619,
+    "fullName": "Jayden Quiantance"
   },
   {
     "cfId": 17301,
@@ -2474,10 +3002,6 @@
   {
     "cfId": 19652,
     "fullName": "Jaylen Clark"
-  },
-  {
-    "cfId": 19063,
-    "fullName": "Jaylen Hoard"
   },
   {
     "cfId": 19681,
@@ -2504,10 +3028,6 @@
     "fullName": "Jaylon Tyson"
   },
   {
-    "cfId": 2943,
-    "fullName": "Jayson Granger"
-  },
-  {
     "cfId": 17002,
     "fullName": "Jayson Tatum"
   },
@@ -2516,32 +3036,44 @@
     "fullName": "Jazian Gortman"
   },
   {
-    "cfId": 19901,
-    "fullName": "Jeenathan Williams"
+    "cfId": 20641,
+    "fullName": "Ja’Kobi Gillespie"
   },
   {
     "cfId": 19298,
     "fullName": "Jeff Dowtin Jr."
   },
   {
+    "cfId": 5097,
+    "fullName": "Jeff Gentry"
+  },
+  {
+    "cfId": 5532,
+    "fullName": "Jeff Gentry"
+  },
+  {
     "cfId": 1414,
     "fullName": "Jeff Green"
   },
   {
-    "cfId": 157,
+    "cfId": 5194,
     "fullName": "Jeff Hornacek"
   },
   {
-    "cfId": 2047,
-    "fullName": "Jeff Turner"
+    "cfId": 5558,
+    "fullName": "Jeff Norris"
   },
   {
-    "cfId": 4412,
-    "fullName": "Jeff Webb"
+    "cfId": 5558,
+    "fullName": "Jeff Norris"
   },
   {
     "cfId": 4510,
     "fullName": "Jerami Grant"
+  },
+  {
+    "cfId": 19942,
+    "fullName": "Jeremiah Fears"
   },
   {
     "cfId": 19331,
@@ -2550,10 +3082,6 @@
   {
     "cfId": 19408,
     "fullName": "Jeremy Sochan"
-  },
-  {
-    "cfId": 7518,
-    "fullName": "Jerian Grant"
   },
   {
     "cfId": 19357,
@@ -2568,24 +3096,32 @@
     "fullName": "Jerome Robinson"
   },
   {
-    "cfId": 738,
-    "fullName": "Jerry Lucas"
+    "cfId": 8,
+    "fullName": "Jerry Stackhouse"
   },
   {
-    "cfId": 1964,
-    "fullName": "Jerry Sichting"
+    "cfId": 5596,
+    "fullName": "Jerry Taylor"
   },
   {
-    "cfId": 756,
-    "fullName": "Jerry West"
+    "cfId": 1494,
+    "fullName": "Jerson Sapida"
   },
   {
     "cfId": 19916,
     "fullName": "Jesse Edwards"
   },
   {
-    "cfId": 36104,
-    "fullName": "Jessie Finley"
+    "cfId": 5531,
+    "fullName": "Jesse Johnson"
+  },
+  {
+    "cfId": 8052,
+    "fullName": "Jesse Mermuys"
+  },
+  {
+    "cfId": 5108,
+    "fullName": "Jesús Mateo"
   },
   {
     "cfId": 19610,
@@ -2596,32 +3132,76 @@
     "fullName": "Jevon Carter"
   },
   {
-    "cfId": 34999,
-    "fullName": "Jevon Hampton"
+    "cfId": 5545,
+    "fullName": "Jim Bartlett"
   },
   {
-    "cfId": 1925,
-    "fullName": "Jim King"
+    "cfId": 5085,
+    "fullName": "Jim Boylan"
   },
   {
-    "cfId": 1939,
-    "fullName": "Jim McMillian"
+    "cfId": 5117,
+    "fullName": "Jim Cleamons"
+  },
+  {
+    "cfId": 5518,
+    "fullName": "Jim Gillen"
+  },
+  {
+    "cfId": 5047,
+    "fullName": "Jim Jones"
+  },
+  {
+    "cfId": 5047,
+    "fullName": "Jim Jones"
+  },
+  {
+    "cfId": 5047,
+    "fullName": "Jim Jones"
+  },
+  {
+    "cfId": 5594,
+    "fullName": "Jim Jones"
+  },
+  {
+    "cfId": 5589,
+    "fullName": "Jim Lee"
+  },
+  {
+    "cfId": 5593,
+    "fullName": "Jim Paul"
+  },
+  {
+    "cfId": 5102,
+    "fullName": "Jim Todd"
   },
   {
     "cfId": 2165,
-    "fullName": "Jimmy Butler"
+    "fullName": "Jimmy Butler III"
+  },
+  {
+    "cfId": 19952,
+    "fullName": "Joan Beringer"
+  },
+  {
+    "cfId": 5133,
+    "fullName": "Joan Peñarroya"
   },
   {
     "cfId": 2958,
     "fullName": "Jock Landale"
   },
   {
-    "cfId": 2305,
-    "fullName": "Joe Bryant"
+    "cfId": 5574,
+    "fullName": "Joe Beck"
   },
   {
-    "cfId": 1213,
-    "fullName": "Joe Dumars"
+    "cfId": 1861,
+    "fullName": "Joe Biden"
+  },
+  {
+    "cfId": 5585,
+    "fullName": "Joe Fish"
   },
   {
     "cfId": 4569,
@@ -2632,12 +3212,32 @@
     "fullName": "Joe Ingles"
   },
   {
-    "cfId": 19340,
-    "fullName": "Joe Wieskamp"
+    "cfId": 5155,
+    "fullName": "Joe Mazulla"
+  },
+  {
+    "cfId": 5525,
+    "fullName": "Joe Sharpe"
+  },
+  {
+    "cfId": 5087,
+    "fullName": "Joe Wolf"
   },
   {
     "cfId": 4502,
     "fullName": "Joel Embiid"
+  },
+  {
+    "cfId": 5083,
+    "fullName": "Joel Forrest"
+  },
+  {
+    "cfId": 5530,
+    "fullName": "Joel Forrest"
+  },
+  {
+    "cfId": 5588,
+    "fullName": "Joel Mason"
   },
   {
     "cfId": 19449,
@@ -2648,24 +3248,12 @@
     "fullName": "Joey Hauser"
   },
   {
-    "cfId": 2741,
-    "fullName": "Joffrey Lauvergne"
-  },
-  {
-    "cfId": 2911,
-    "fullName": "Johannes Thiemann"
-  },
-  {
-    "cfId": 2904,
-    "fullName": "Johannes Voigtmann"
-  },
-  {
     "cfId": 2109,
     "fullName": "John Brough"
   },
   {
-    "cfId": 2220,
-    "fullName": "John Brown"
+    "cfId": 2114,
+    "fullName": "John Brough"
   },
   {
     "cfId": 19484,
@@ -2676,40 +3264,48 @@
     "fullName": "John Collins"
   },
   {
-    "cfId": 2923,
-    "fullName": "John DiBartolomeo"
-  },
-  {
-    "cfId": 735,
-    "fullName": "John Havlicek"
-  },
-  {
     "cfId": 19086,
     "fullName": "John Konchar"
   },
   {
-    "cfId": 1732,
-    "fullName": "John Paxson"
+    "cfId": 5014,
+    "fullName": "John Kuester"
   },
   {
-    "cfId": 2339,
-    "fullName": "John Salley"
+    "cfId": 1389,
+    "fullName": "John Lucas III"
   },
   {
-    "cfId": 163,
-    "fullName": "John Stockton"
+    "cfId": 20036,
+    "fullName": "John Poulakidas"
   },
   {
-    "cfId": 1919,
-    "fullName": "John Thompson"
+    "cfId": 5577,
+    "fullName": "John Teague"
   },
   {
-    "cfId": 1801,
-    "fullName": "John Wall"
+    "cfId": 5149,
+    "fullName": "John-Blair Bickerstaff"
   },
   {
-    "cfId": 17070,
-    "fullName": "Johnathan Motley"
+    "cfId": 19970,
+    "fullName": "Johni Broome"
+  },
+  {
+    "cfId": 19988,
+    "fullName": "Johni Tonje"
+  },
+  {
+    "cfId": 5030,
+    "fullName": "Johnnie Bryant"
+  },
+  {
+    "cfId": 509,
+    "fullName": "Johnnie Yang"
+  },
+  {
+    "cfId": 5097,
+    "fullName": "Johnny Davis"
   },
   {
     "cfId": 19409,
@@ -2724,28 +3320,28 @@
     "fullName": "Johnny Juzang"
   },
   {
-    "cfId": 2004,
-    "fullName": "Johnny Newman"
+    "cfId": 5541,
+    "fullName": "Johnny Malone"
   },
   {
     "cfId": 10652,
     "fullName": "Joirdon Nicholas"
   },
   {
-    "cfId": 1970,
-    "fullName": "Jon Koncak"
+    "cfId": 5570,
+    "fullName": "Jon Barnes"
   },
   {
-    "cfId": 1929,
-    "fullName": "Jon McGlocklin"
+    "cfId": 5510,
+    "fullName": "Jon Ishop"
   },
   {
     "cfId": 2128,
     "fullName": "Jonas Valanciunas"
   },
   {
-    "cfId": 571,
-    "fullName": "Jonathan Bender"
+    "cfId": 1370,
+    "fullName": "Jonathan Gregory"
   },
   {
     "cfId": 17005,
@@ -2758,10 +3354,6 @@
   {
     "cfId": 19854,
     "fullName": "Jonathan Mogbo"
-  },
-  {
-    "cfId": 19706,
-    "fullName": "Jones 19705"
   },
   {
     "cfId": 19073,
@@ -2792,16 +3384,16 @@
     "fullName": "Jordan McLaughlin"
   },
   {
-    "cfId": 7532,
-    "fullName": "Jordan Mickey"
-  },
-  {
     "cfId": 19647,
     "fullName": "Jordan Miller"
   },
   {
     "cfId": 19244,
     "fullName": "Jordan Nwora"
+  },
+  {
+    "cfId": 8051,
+    "fullName": "Jordan Ott"
   },
   {
     "cfId": 19027,
@@ -2820,16 +3412,20 @@
     "fullName": "Jordan Walsh"
   },
   {
+    "cfId": 8047,
+    "fullName": "Jordi Fernandez"
+  },
+  {
     "cfId": 19382,
     "fullName": "Jose Alvarado"
   },
   {
-    "cfId": 35970,
-    "fullName": "Joseph Stewart Jr."
-  },
-  {
     "cfId": 19323,
     "fullName": "Josh Christopher"
+  },
+  {
+    "cfId": 5519,
+    "fullName": "Josh Corbeil"
   },
   {
     "cfId": 19305,
@@ -2844,8 +3440,8 @@
     "fullName": "Josh Hart"
   },
   {
-    "cfId": 17003,
-    "fullName": "Josh Jackson"
+    "cfId": 8053,
+    "fullName": "Josh Longstaff"
   },
   {
     "cfId": 19444,
@@ -2864,8 +3460,12 @@
     "fullName": "Josh Richardson"
   },
   {
-    "cfId": 36024,
-    "fullName": "Josh Young"
+    "cfId": 5584,
+    "fullName": "Josh Thomas"
+  },
+  {
+    "cfId": 20627,
+    "fullName": "Joshua Jefferson"
   },
   {
     "cfId": 19311,
@@ -2880,16 +3480,8 @@
     "fullName": "Jrue Holiday"
   },
   {
-    "cfId": 19823,
-    "fullName": "Juan Nunez"
-  },
-  {
     "cfId": 8866,
     "fullName": "Juan Toscano-Anderson"
-  },
-  {
-    "cfId": 17392,
-    "fullName": "Juancho Hernangomez"
   },
   {
     "cfId": 19824,
@@ -2908,24 +3500,28 @@
     "fullName": "Julian Phillips"
   },
   {
-    "cfId": 19628,
-    "fullName": "Julian Strawther"
+    "cfId": 20013,
+    "fullName": "Julian Reese"
   },
   {
-    "cfId": 2301,
-    "fullName": "Julius Erving"
+    "cfId": 19628,
+    "fullName": "Julian Strawther"
   },
   {
     "cfId": 4505,
     "fullName": "Julius Randle"
   },
   {
-    "cfId": 594,
-    "fullName": "Jumaine Jones"
+    "cfId": 5546,
+    "fullName": "Junior Powell"
   },
   {
-    "cfId": 2915,
-    "fullName": "Justin Bean"
+    "cfId": 5585,
+    "fullName": "Junior Thomas"
+  },
+  {
+    "cfId": 5581,
+    "fullName": "Justin Bowen"
   },
   {
     "cfId": 19389,
@@ -2964,23 +3560,19 @@
     "fullName": "Jusuf Nurkic"
   },
   {
-    "cfId": 1913,
-    "fullName": "K.C. Jones"
+    "cfId": 31,
+    "fullName": "Juwan Howard"
+  },
+  {
+    "cfId": 5531,
+    "fullName": "K.C. Burgess"
   },
   {
     "cfId": 10562,
     "fullName": "K.J. Jones II"
   },
   {
-    "cfId": 35923,
-    "fullName": "K.J. Oliver"
-  },
-  {
-    "cfId": 19031,
-    "fullName": "KZ Okpala"
-  },
-  {
-    "cfId": 19863,
+    "cfId": 19997,
     "fullName": "Kadary Richmond"
   },
   {
@@ -2988,32 +3580,52 @@
     "fullName": "Kai Jones"
   },
   {
-    "cfId": 19479,
-    "fullName": "Kai Sotto"
+    "cfId": 5190,
+    "fullName": "Kaleb Canales"
   },
   {
-    "cfId": 17516,
-    "fullName": "Kaiser Gates"
+    "cfId": 5190,
+    "fullName": "Kaleb Canales"
   },
   {
-    "cfId": 1975,
-    "fullName": "Kareem Abdul-Jabbar"
+    "cfId": 19973,
+    "fullName": "Kam Jones"
   },
   {
-    "cfId": 159,
-    "fullName": "Karl Malone"
+    "cfId": 13,
+    "fullName": "Kameron Woods"
+  },
+  {
+    "cfId": 13,
+    "fullName": "Kameron Woods"
+  },
+  {
+    "cfId": 20620,
+    "fullName": "Karim Lopez"
   },
   {
     "cfId": 7500,
     "fullName": "Karl-Anthony Towns"
   },
   {
-    "cfId": 20946,
+    "cfId": 19931,
     "fullName": "Karlo Matkovic"
+  },
+  {
+    "cfId": 19955,
+    "fullName": "Kasparas Jakucionis"
   },
   {
     "cfId": 2143,
     "fullName": "Kawhi Leonard"
+  },
+  {
+    "cfId": 5148,
+    "fullName": "Kazys Maksvytis"
+  },
+  {
+    "cfId": 20604,
+    "fullName": "Keaton Wagler"
   },
   {
     "cfId": 19900,
@@ -3022,10 +3634,6 @@
   {
     "cfId": 19403,
     "fullName": "Keegan Murray"
-  },
-  {
-    "cfId": 17477,
-    "fullName": "Keenan Evans"
   },
   {
     "cfId": 19863,
@@ -3040,20 +3648,24 @@
     "fullName": "Keita Bates-Diop"
   },
   {
-    "cfId": 1937,
-    "fullName": "Keith Erickson"
+    "cfId": 5555,
+    "fullName": "Keith Bailey"
   },
   {
-    "cfId": 412,
-    "fullName": "Keith Van Horn"
+    "cfId": 5576,
+    "fullName": "Keith Brown"
+  },
+  {
+    "cfId": 5522,
+    "fullName": "Keith Jones"
+  },
+  {
+    "cfId": 5536,
+    "fullName": "Keith Smith"
   },
   {
     "cfId": 19028,
     "fullName": "Keldon Johnson"
-  },
-  {
-    "cfId": 36200,
-    "fullName": "Keldon Teague"
   },
   {
     "cfId": 2699,
@@ -3065,19 +3677,11 @@
   },
   {
     "cfId": 19876,
-    "fullName": "Kel\u2019el Ware"
+    "fullName": "Kel’el Ware"
   },
   {
     "cfId": 19447,
     "fullName": "Kendall Brown"
-  },
-  {
-    "cfId": 2000,
-    "fullName": "Kendall Gill"
-  },
-  {
-    "cfId": 17479,
-    "fullName": "Kendrick Nunn"
   },
   {
     "cfId": 19437,
@@ -3088,16 +3692,20 @@
     "fullName": "Kenneth Lofton Jr."
   },
   {
-    "cfId": 19840,
-    "fullName": "Kenneth Simpson Jr."
+    "cfId": 5202,
+    "fullName": "Kenny Atkinson"
   },
   {
-    "cfId": 34608,
-    "fullName": "Kenneth Walton"
+    "cfId": 5202,
+    "fullName": "Kenny Atkinson"
   },
   {
-    "cfId": 2005,
+    "cfId": 5106,
     "fullName": "Kenny Gattison"
+  },
+  {
+    "cfId": 5588,
+    "fullName": "Kenny Grant"
   },
   {
     "cfId": 17465,
@@ -3106,10 +3714,6 @@
   {
     "cfId": 2694,
     "fullName": "Kentavious Caldwell-Pope"
-  },
-  {
-    "cfId": 625,
-    "fullName": "Kenyon Martin"
   },
   {
     "cfId": 19251,
@@ -3124,8 +3728,8 @@
     "fullName": "Keon Johnson"
   },
   {
-    "cfId": 4019,
-    "fullName": "Kerry Kittles"
+    "cfId": 5515,
+    "fullName": "Keon Weise"
   },
   {
     "cfId": 19878,
@@ -3140,27 +3744,35 @@
     "fullName": "Kessler Edwards"
   },
   {
-    "cfId": 19122,
-    "fullName": "Kevarrius Hayes"
-  },
-  {
-    "cfId": 1992,
-    "fullName": "Kevin Duckworth"
+    "cfId": 5549,
+    "fullName": "Kevin Cruise"
   },
   {
     "cfId": 1411,
     "fullName": "Kevin Durant"
   },
   {
-    "cfId": 17456,
-    "fullName": "Kevin Hervey"
+    "cfId": 5095,
+    "fullName": "Kevin Gilbert"
+  },
+  {
+    "cfId": 5531,
+    "fullName": "Kevin Gilbert"
   },
   {
     "cfId": 17418,
     "fullName": "Kevin Huerter"
   },
   {
-    "cfId": 1101,
+    "cfId": 5542,
+    "fullName": "Kevin Jackson"
+  },
+  {
+    "cfId": 5575,
+    "fullName": "Kevin Jefferson"
+  },
+  {
+    "cfId": 5500,
     "fullName": "Kevin Johnson"
   },
   {
@@ -3172,36 +3784,28 @@
     "fullName": "Kevin Love"
   },
   {
-    "cfId": 2007,
-    "fullName": "Kevin Lynch"
-  },
-  {
     "cfId": 19850,
     "fullName": "Kevin McCullar Jr."
   },
   {
-    "cfId": 764,
-    "fullName": "Kevin McHale"
+    "cfId": 5550,
+    "fullName": "Kevin Murphy"
   },
   {
     "cfId": 10486,
     "fullName": "Kevin Obanor"
   },
   {
-    "cfId": 66,
-    "fullName": "Kevin Ollie"
-  },
-  {
-    "cfId": 8840,
-    "fullName": "Kevin Pangos"
-  },
-  {
     "cfId": 19029,
     "fullName": "Kevin Porter Jr."
   },
   {
-    "cfId": 318,
-    "fullName": "Kevin Willis"
+    "cfId": 20000,
+    "fullName": "Kevin Quiambao"
+  },
+  {
+    "cfId": 5534,
+    "fullName": "Kevin Thomas"
   },
   {
     "cfId": 19283,
@@ -3220,8 +3824,8 @@
     "fullName": "Keyonte George"
   },
   {
-    "cfId": 6576,
-    "fullName": "Khem Birch"
+    "cfId": 19945,
+    "fullName": "Khaman Maluach"
   },
   {
     "cfId": 2482,
@@ -3232,48 +3836,48 @@
     "fullName": "Killian Hayes"
   },
   {
-    "cfId": 19272,
-    "fullName": "Killian Tillie"
+    "cfId": 20607,
+    "fullName": "Kingston Flemings"
   },
   {
     "cfId": 19212,
     "fullName": "Kira Lewis Jr."
   },
   {
+    "cfId": 19840,
+    "fullName": "KJ Simpson"
+  },
+  {
     "cfId": 2137,
     "fullName": "Klay Thompson"
   },
   {
-    "cfId": 6167,
-    "fullName": "Klemen Prepelic"
+    "cfId": 20629,
+    "fullName": "Koa Peat"
   },
   {
     "cfId": 19629,
     "fullName": "Kobe Brown"
   },
   {
-    "cfId": 2061,
-    "fullName": "Kobe Bryant"
-  },
-  {
     "cfId": 19614,
     "fullName": "Kobe Bufkin"
+  },
+  {
+    "cfId": 19985,
+    "fullName": "Kobe Sanders"
   },
   {
     "cfId": 17068,
     "fullName": "Kobi Simmons"
   },
   {
-    "cfId": 17459,
-    "fullName": "Kostas Antetokounmpo"
+    "cfId": 19976,
+    "fullName": "Koby Brea"
   },
   {
-    "cfId": 2554,
-    "fullName": "Kostas Papanikolaou"
-  },
-  {
-    "cfId": 2632,
-    "fullName": "Kostas Sloukas"
+    "cfId": 19939,
+    "fullName": "Kon Knueppel"
   },
   {
     "cfId": 17304,
@@ -3288,18 +3892,6 @@
     "fullName": "Kristaps Porzingis"
   },
   {
-    "cfId": 1977,
-    "fullName": "Kurt Rambis"
-  },
-  {
-    "cfId": 19826,
-    "fullName": "KyShawn George"
-  },
-  {
-    "cfId": 19089,
-    "fullName": "Kyle Alexander"
-  },
-  {
     "cfId": 4530,
     "fullName": "Kyle Anderson"
   },
@@ -3308,12 +3900,12 @@
     "fullName": "Kyle Filipowski"
   },
   {
-    "cfId": 19054,
-    "fullName": "Kyle Guy"
+    "cfId": 5533,
+    "fullName": "Kyle Hughes"
   },
   {
-    "cfId": 2541,
-    "fullName": "Kyle Hines"
+    "cfId": 5566,
+    "fullName": "Kyle James"
   },
   {
     "cfId": 17026,
@@ -3324,12 +3916,12 @@
     "fullName": "Kyle Lowry"
   },
   {
-    "cfId": 1725,
-    "fullName": "Kyle Macy"
-  },
-  {
     "cfId": 10651,
     "fullName": "Kyle Mangas"
+  },
+  {
+    "cfId": 5577,
+    "fullName": "Kyle Thomas"
   },
   {
     "cfId": 10671,
@@ -3340,24 +3932,36 @@
     "fullName": "Kyrie Irving"
   },
   {
-    "cfId": 19202,
-    "fullName": "LaMelo Ball"
+    "cfId": 19826,
+    "fullName": "KyShawn George"
   },
   {
-    "cfId": 2028,
-    "fullName": "LaPhonso Ellis"
+    "cfId": 20621,
+    "fullName": "Labaron Philon Jr."
+  },
+  {
+    "cfId": 19990,
+    "fullName": "Lachlan Olbrich"
+  },
+  {
+    "cfId": 20653,
+    "fullName": "Lajae Jones"
   },
   {
     "cfId": 19264,
     "fullName": "Lamar Stevens"
   },
   {
-    "cfId": 34641,
-    "fullName": "Lamar Townsend"
+    "cfId": 19202,
+    "fullName": "LaMelo Ball"
   },
   {
-    "cfId": 19668,
-    "fullName": "Landers Nolley II"
+    "cfId": 20048,
+    "fullName": "Lamont Butler"
+  },
+  {
+    "cfId": 5549,
+    "fullName": "Lance Alford"
   },
   {
     "cfId": 17425,
@@ -3368,20 +3972,12 @@
     "fullName": "Langston Galloway"
   },
   {
-    "cfId": 765,
-    "fullName": "Larry Bird"
+    "cfId": 5595,
+    "fullName": "Larry Brown"
   },
   {
-    "cfId": 1990,
-    "fullName": "Larry Drew"
-  },
-  {
-    "cfId": 2001,
-    "fullName": "Larry Johnson"
-  },
-  {
-    "cfId": 1102,
-    "fullName": "Larry Nance"
+    "cfId": 5574,
+    "fullName": "Larry Graham"
   },
   {
     "cfId": 7526,
@@ -3392,39 +3988,75 @@
     "fullName": "Lauri Markkanen"
   },
   {
-    "cfId": 2094,
-    "fullName": "Lawrence Funderburke"
+    "cfId": 5030,
+    "fullName": "Lawrence Frank"
   },
   {
-    "cfId": 1013,
-    "fullName": "LeBron James"
+    "cfId": 20039,
+    "fullName": "Lawson Lovering"
   },
   {
     "cfId": 19685,
     "fullName": "Leaky Black"
   },
   {
-    "cfId": 34927,
-    "fullName": "Leo Trent"
+    "cfId": 1040,
+    "fullName": "Leandro Barbosa"
+  },
+  {
+    "cfId": 8049,
+    "fullName": "Leandro Barbosa"
+  },
+  {
+    "cfId": 1013,
+    "fullName": "LeBron James"
+  },
+  {
+    "cfId": 5538,
+    "fullName": "Lee Oliver"
+  },
+  {
+    "cfId": 5550,
+    "fullName": "Lee Oliver"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Lee Oliver"
   },
   {
     "cfId": 19632,
     "fullName": "Leonard Miller"
   },
   {
-    "cfId": 1923,
-    "fullName": "Leroy Ellis"
+    "cfId": 5129,
+    "fullName": "Lester Conner"
   },
   {
     "cfId": 19475,
     "fullName": "Lester Quinones"
   },
   {
-    "cfId": 1097,
-    "fullName": "Lew Alcindor"
+    "cfId": 5538,
+    "fullName": "Lewis Meyer"
   },
   {
-    "cfId": 20452,
+    "cfId": 5571,
+    "fullName": "Lewis Meyer"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Lewis Meyer"
+  },
+  {
+    "cfId": 5596,
+    "fullName": "Lewis Meyer"
+  },
+  {
+    "cfId": 19964,
+    "fullName": "Liam McNeely"
+  },
+  {
+    "cfId": 19928,
     "fullName": "Liam Robbins"
   },
   {
@@ -3432,16 +4064,16 @@
     "fullName": "Lindell Wigginton"
   },
   {
-    "cfId": 284,
-    "fullName": "Lindsey Hunter"
-  },
-  {
     "cfId": 19118,
     "fullName": "Lindy Waters III"
   },
   {
-    "cfId": 2714,
-    "fullName": "Livio Jean-Charles"
+    "cfId": 20034,
+    "fullName": "LJ Cryer"
+  },
+  {
+    "cfId": 5597,
+    "fullName": "Lonnie Davis"
   },
   {
     "cfId": 17417,
@@ -3452,28 +4084,8 @@
     "fullName": "Lonzo Ball"
   },
   {
-    "cfId": 2738,
-    "fullName": "Lorenzo Brown"
-  },
-  {
-    "cfId": 19098,
-    "fullName": "Louis King"
-  },
-  {
-    "cfId": 2916,
-    "fullName": "Louis Olinde"
-  },
-  {
-    "cfId": 1591,
-    "fullName": "Lu Su"
-  },
-  {
-    "cfId": 1761,
-    "fullName": "Luc Longley"
-  },
-  {
-    "cfId": 2913,
-    "fullName": "Luca Vildoza"
+    "cfId": 5598,
+    "fullName": "Lou Wilkins"
   },
   {
     "cfId": 19060,
@@ -3492,14 +4104,6 @@
     "fullName": "Luka Samanic"
   },
   {
-    "cfId": 34836,
-    "fullName": "Luka Vujacic"
-  },
-  {
-    "cfId": 2624,
-    "fullName": "Lukas Lekavicius"
-  },
-  {
     "cfId": 17011,
     "fullName": "Luke Kennard"
   },
@@ -3508,24 +4112,32 @@
     "fullName": "Luke Kornet"
   },
   {
-    "cfId": 20423,
+    "cfId": 5583,
+    "fullName": "Luke Smith"
+  },
+  {
+    "cfId": 19927,
     "fullName": "Luke Travers"
   },
   {
-    "cfId": 1948,
-    "fullName": "Luther Rackley"
+    "cfId": 5000,
+    "fullName": "Luke Walton"
+  },
+  {
+    "cfId": 5000,
+    "fullName": "Luke Walton"
+  },
+  {
+    "cfId": 5000,
+    "fullName": "Luke Walton"
+  },
+  {
+    "cfId": 20050,
+    "fullName": "M.J. Walker"
   },
   {
     "cfId": 19373,
     "fullName": "Mac McClung"
-  },
-  {
-    "cfId": 778,
-    "fullName": "Magic Johnson"
-  },
-  {
-    "cfId": 2025,
-    "fullName": "Mahmoud Abdul-Rauf"
   },
   {
     "cfId": 19228,
@@ -3536,7 +4148,7 @@
     "fullName": "Malaki Branham"
   },
   {
-    "cfId": 8760,
+    "cfId": 20051,
     "fullName": "Malcolm Brogdon"
   },
   {
@@ -3548,16 +4160,16 @@
     "fullName": "Malcolm Hill"
   },
   {
-    "cfId": 20013,
+    "cfId": 19925,
     "fullName": "Malevy Leons"
+  },
+  {
+    "cfId": 5007,
+    "fullName": "Malik Allen"
   },
   {
     "cfId": 17379,
     "fullName": "Malik Beasley"
-  },
-  {
-    "cfId": 19269,
-    "fullName": "Malik Fitts"
   },
   {
     "cfId": 17010,
@@ -3568,28 +4180,28 @@
     "fullName": "Malik Williams"
   },
   {
+    "cfId": 20643,
+    "fullName": "Maliq Brown"
+  },
+  {
+    "cfId": 20659,
+    "fullName": "Malique Lewis"
+  },
+  {
     "cfId": 19285,
     "fullName": "Mamadi Diakite"
   },
   {
-    "cfId": 34958,
-    "fullName": "Mamadou Udoh"
+    "cfId": 5502,
+    "fullName": "Marc Boff"
   },
   {
-    "cfId": 2909,
-    "fullName": "Maodo Lo"
+    "cfId": 5546,
+    "fullName": "Marc Mills"
   },
   {
-    "cfId": 19423,
-    "fullName": "MarJon Beauchamp"
-  },
-  {
-    "cfId": 1427,
-    "fullName": "Marco Belinelli"
-  },
-  {
-    "cfId": 19658,
-    "fullName": "Marcus Bagley"
+    "cfId": 5548,
+    "fullName": "Marc Phillips"
   },
   {
     "cfId": 10570,
@@ -3612,48 +4224,44 @@
     "fullName": "Marcus Smart"
   },
   {
-    "cfId": 4256,
-    "fullName": "Mario Bennett"
+    "cfId": 1403,
+    "fullName": "Mario Fioretti"
   },
   {
-    "cfId": 2083,
-    "fullName": "Mario Elie"
-  },
-  {
-    "cfId": 7504,
-    "fullName": "Mario Hezonja"
-  },
-  {
-    "cfId": 2937,
-    "fullName": "Marius Grigonis"
-  },
-  {
-    "cfId": 1981,
-    "fullName": "Mark Aguirre"
+    "cfId": 19423,
+    "fullName": "MarJon Beauchamp"
   },
   {
     "cfId": 10561,
     "fullName": "Mark Armstrong"
   },
   {
-    "cfId": 1994,
-    "fullName": "Mark Bryant"
+    "cfId": 5536,
+    "fullName": "Mark Green"
   },
   {
-    "cfId": 254,
-    "fullName": "Mark Jackson"
+    "cfId": 5548,
+    "fullName": "Mark Green"
   },
   {
-    "cfId": 652,
-    "fullName": "Mark Madsen"
+    "cfId": 5571,
+    "fullName": "Mark Green"
   },
   {
-    "cfId": 1739,
-    "fullName": "Mark Price"
+    "cfId": 5163,
+    "fullName": "Mark Lue"
   },
   {
-    "cfId": 2011,
-    "fullName": "Mark West"
+    "cfId": 5599,
+    "fullName": "Mark Lue"
+  },
+  {
+    "cfId": 5587,
+    "fullName": "Mark Miller"
+  },
+  {
+    "cfId": 20008,
+    "fullName": "Mark Sears"
   },
   {
     "cfId": 19414,
@@ -3668,40 +4276,24 @@
     "fullName": "Markieff Morris Sr."
   },
   {
-    "cfId": 6621,
-    "fullName": "Marko Guduric"
-  },
-  {
-    "cfId": 19243,
-    "fullName": "Marko Simonovic"
-  },
-  {
     "cfId": 19669,
     "fullName": "Markquis Nowell"
   },
   {
-    "cfId": 19267,
-    "fullName": "Markus Howard"
+    "cfId": 5560,
+    "fullName": "Marlon Otto"
   },
   {
     "cfId": 19076,
     "fullName": "Marques Bolden"
   },
   {
-    "cfId": 17383,
-    "fullName": "Marquese Chriss"
-  },
-  {
-    "cfId": 2921,
-    "fullName": "Martinas Geben"
+    "cfId": 5552,
+    "fullName": "Martin Shipp"
   },
   {
     "cfId": 17401,
     "fullName": "Marvin Bagley III"
-  },
-  {
-    "cfId": 34848,
-    "fullName": "Mason Hill"
   },
   {
     "cfId": 19268,
@@ -3716,14 +4308,6 @@
     "fullName": "Matas Buzelis"
   },
   {
-    "cfId": 638,
-    "fullName": "Mateen Cleaves"
-  },
-  {
-    "cfId": 17049,
-    "fullName": "Mathias Lessort"
-  },
-  {
     "cfId": 19019,
     "fullName": "Matisse Thybulle"
   },
@@ -3732,44 +4316,60 @@
     "fullName": "Matt Bradley"
   },
   {
-    "cfId": 8797,
-    "fullName": "Matt Costello"
+    "cfId": 503,
+    "fullName": "Matt Hamre"
   },
   {
-    "cfId": 144,
-    "fullName": "Matt Geiger"
+    "cfId": 5172,
+    "fullName": "Matt Hamre"
+  },
+  {
+    "cfId": 5172,
+    "fullName": "Matt Hamre"
+  },
+  {
+    "cfId": 5532,
+    "fullName": "Matt Masters"
+  },
+  {
+    "cfId": 5536,
+    "fullName": "Matt Peterson"
+  },
+  {
+    "cfId": 5568,
+    "fullName": "Matt Rush"
   },
   {
     "cfId": 19294,
     "fullName": "Matt Ryan"
   },
   {
-    "cfId": 8861,
-    "fullName": "Matt Thomas"
-  },
-  {
-    "cfId": 34924,
-    "fullName": "Matteo Garibaldi"
-  },
-  {
-    "cfId": 19449,
-    "fullName": "Matteo Spagnolo"
-  },
-  {
     "cfId": 19377,
     "fullName": "Matthew Hurt"
   },
   {
-    "cfId": 19665,
-    "fullName": "Matthew Mayer"
+    "cfId": 5033,
+    "fullName": "Maurice Cheeks"
   },
   {
-    "cfId": 1098,
-    "fullName": "Maurice Cheeks"
+    "cfId": 5566,
+    "fullName": "Maurice Dailey"
+  },
+  {
+    "cfId": 5152,
+    "fullName": "Maurice Lucas"
+  },
+  {
+    "cfId": 5592,
+    "fullName": "Maurice Meyer"
   },
   {
     "cfId": 10692,
     "fullName": "Max Abmas"
+  },
+  {
+    "cfId": 5504,
+    "fullName": "Max Benton"
   },
   {
     "cfId": 19434,
@@ -3780,6 +4380,10 @@
     "fullName": "Max Fiedler"
   },
   {
+    "cfId": 19992,
+    "fullName": "Max Shulga"
+  },
+  {
     "cfId": 19084,
     "fullName": "Max Strus"
   },
@@ -3788,96 +4392,88 @@
     "fullName": "Maxi Kleber"
   },
   {
+    "cfId": 19977,
+    "fullName": "Maxime Raynaud"
+  },
+  {
     "cfId": 19639,
     "fullName": "Maxwell Lewis"
   },
   {
-    "cfId": 183,
-    "fullName": "McCoy McLemore"
+    "cfId": 20633,
+    "fullName": "Meleek Thomas"
   },
   {
-    "cfId": 19363,
-    "fullName": "McKinley Wright IV"
-  },
-  {
-    "cfId": 1920,
-    "fullName": "Mel Counts"
-  },
-  {
-    "cfId": 2905,
-    "fullName": "Melih Mahmutoglu"
-  },
-  {
-    "cfId": 19875,
-    "fullName": "Melvin Ajinca"
-  },
-  {
-    "cfId": 2454,
-    "fullName": "Meyers Leonard"
-  },
-  {
-    "cfId": 19026,
-    "fullName": "Mfiondu Kabengele"
+    "cfId": 19975,
+    "fullName": "Micah Peavy"
   },
   {
     "cfId": 17088,
     "fullName": "Micah Potter"
   },
   {
-    "cfId": 2697,
-    "fullName": "Michael Carter-Williams"
+    "cfId": 5559,
+    "fullName": "Michael Gooding"
   },
   {
-    "cfId": 1976,
-    "fullName": "Michael Cooper"
+    "cfId": 5559,
+    "fullName": "Michael Gooding"
   },
   {
-    "cfId": 2219,
-    "fullName": "Michael Davis"
-  },
-  {
-    "cfId": 19468,
-    "fullName": "Michael Foster Jr."
-  },
-  {
-    "cfId": 35773,
-    "fullName": "Michael Hayes"
-  },
-  {
-    "cfId": 1726,
+    "cfId": 5193,
     "fullName": "Michael Jordan"
   },
   {
-    "cfId": 35029,
-    "fullName": "Michael McGee"
+    "cfId": 5583,
+    "fullName": "Michael Parker"
   },
   {
     "cfId": 17413,
     "fullName": "Michael Porter Jr."
   },
   {
-    "cfId": 2920,
-    "fullName": "Michalis Lountzis"
+    "cfId": 5586,
+    "fullName": "Michael Thomas"
   },
   {
-    "cfId": 34565,
-    "fullName": "Mikael Svensson"
+    "cfId": 5551,
+    "fullName": "Michael Woods"
   },
   {
     "cfId": 17409,
     "fullName": "Mikal Bridges"
   },
   {
-    "cfId": 59,
-    "fullName": "Mike Bibby"
+    "cfId": 5520,
+    "fullName": "Mike Abdenour"
+  },
+  {
+    "cfId": 5002,
+    "fullName": "Mike Brown"
   },
   {
     "cfId": 1413,
     "fullName": "Mike Conley"
   },
   {
-    "cfId": 1959,
-    "fullName": "Mike Dunleavy"
+    "cfId": 5008,
+    "fullName": "Mike D'Antoni"
+  },
+  {
+    "cfId": 8040,
+    "fullName": "Mike Daigneault"
+  },
+  {
+    "cfId": 8040,
+    "fullName": "Mike Daigneault"
+  },
+  {
+    "cfId": 5135,
+    "fullName": "Mike Evans"
+  },
+  {
+    "cfId": 5589,
+    "fullName": "Mike Griffin"
   },
   {
     "cfId": 19666,
@@ -3888,16 +4484,40 @@
     "fullName": "Mike Muscala"
   },
   {
-    "cfId": 2963,
-    "fullName": "Mike Tobey"
+    "cfId": 5585,
+    "fullName": "Mike Reid"
+  },
+  {
+    "cfId": 5535,
+    "fullName": "Mike Shaw"
+  },
+  {
+    "cfId": 5599,
+    "fullName": "Mike Smith"
   },
   {
     "cfId": 1244,
     "fullName": "Mike Wang"
   },
   {
+    "cfId": 1244,
+    "fullName": "Mike Wang"
+  },
+  {
+    "cfId": 1244,
+    "fullName": "Mike Wang"
+  },
+  {
+    "cfId": 20605,
+    "fullName": "Mikel Brown Jr."
+  },
+  {
     "cfId": 17411,
     "fullName": "Miles Bridges"
+  },
+  {
+    "cfId": 20004,
+    "fullName": "Miles Kelly"
   },
   {
     "cfId": 19335,
@@ -3912,16 +4532,20 @@
     "fullName": "Miller Kopp"
   },
   {
-    "cfId": 2538,
-    "fullName": "Milos Teodosic"
+    "cfId": 19709,
+    "fullName": "Milos Uzan"
   },
   {
-    "cfId": 174,
-    "fullName": "Mitch Richmond"
+    "cfId": 5586,
+    "fullName": "Mitch Davis"
   },
   {
-    "cfId": 36142,
-    "fullName": "Mitch Sharp"
+    "cfId": 5047,
+    "fullName": "Mitch Johnson"
+  },
+  {
+    "cfId": 5596,
+    "fullName": "Mitchell Davis"
   },
   {
     "cfId": 17435,
@@ -3936,24 +4560,28 @@
     "fullName": "Mo Bamba"
   },
   {
-    "cfId": 19646,
-    "fullName": "Mojave King"
+    "cfId": 19986,
+    "fullName": "Mohamed Diawara"
   },
   {
     "cfId": 17050,
     "fullName": "Monte Morris"
   },
   {
-    "cfId": 7531,
-    "fullName": "Montrezl Harrell"
-  },
-  {
-    "cfId": 2076,
-    "fullName": "Monty Williams"
+    "cfId": 20608,
+    "fullName": "Morez Johnson Jr."
   },
   {
     "cfId": 17424,
     "fullName": "Moritz Wagner"
+  },
+  {
+    "cfId": 5146,
+    "fullName": "Morris Vincent"
+  },
+  {
+    "cfId": 5543,
+    "fullName": "Morris Vincent"
   },
   {
     "cfId": 19075,
@@ -3968,28 +4596,20 @@
     "fullName": "Moses Wood"
   },
   {
+    "cfId": 19222,
+    "fullName": "Mouhamadou Gueye"
+  },
+  {
     "cfId": 19638,
     "fullName": "Mouhamed Gueye"
   },
   {
-    "cfId": 6451,
-    "fullName": "Mouhammadou Jaiteh"
+    "cfId": 20023,
+    "fullName": "Moussa Cisse"
   },
   {
     "cfId": 19442,
     "fullName": "Moussa Diabate"
-  },
-  {
-    "cfId": 2929,
-    "fullName": "Moustapha Fall"
-  },
-  {
-    "cfId": 1998,
-    "fullName": "Muggsy Bogues"
-  },
-  {
-    "cfId": 1979,
-    "fullName": "Mychal Thompson"
   },
   {
     "cfId": 7510,
@@ -4001,7 +4621,7 @@
   },
   {
     "cfId": 17053,
-    "fullName": "M\u00e3ozinha Pereira"
+    "fullName": "Mãozinha Pereira"
   },
   {
     "cfId": 19870,
@@ -4012,12 +4632,52 @@
     "fullName": "Nae'Qwan Tomlin"
   },
   {
+    "cfId": 1598,
+    "fullName": "Nagi"
+  },
+  {
+    "cfId": 5527,
+    "fullName": "Nagi Jensen"
+  },
+  {
+    "cfId": 5122,
+    "fullName": "Nagi Larranaga"
+  },
+  {
+    "cfId": 5122,
+    "fullName": "Nagi Larranaga"
+  },
+  {
+    "cfId": 19254,
+    "fullName": "Nagi Scrubb"
+  },
+  {
+    "cfId": 5586,
+    "fullName": "Nagi Smith"
+  },
+  {
+    "cfId": 5015,
+    "fullName": "Nagi Triano"
+  },
+  {
+    "cfId": 5015,
+    "fullName": "Nagi Triano"
+  },
+  {
     "cfId": 19277,
     "fullName": "Naji Marshall"
   },
   {
+    "cfId": 20656,
+    "fullName": "Narcisse Ngoy"
+  },
+  {
     "cfId": 19024,
     "fullName": "Nassir Little"
+  },
+  {
+    "cfId": 20612,
+    "fullName": "Nate Ament"
   },
   {
     "cfId": 19262,
@@ -4028,28 +4688,16 @@
     "fullName": "Nate Hinton"
   },
   {
-    "cfId": 35984,
-    "fullName": "Nate Howard"
-  },
-  {
-    "cfId": 2051,
+    "cfId": 5021,
     "fullName": "Nate McMillan"
   },
   {
-    "cfId": 19261,
-    "fullName": "Nate Sestina"
+    "cfId": 1150,
+    "fullName": "Nate Tibbets"
   },
   {
     "cfId": 19901,
     "fullName": "Nate Williams"
-  },
-  {
-    "cfId": 34730,
-    "fullName": "Nathan Bryant"
-  },
-  {
-    "cfId": 36015,
-    "fullName": "Nathan Griffin Jr."
   },
   {
     "cfId": 19260,
@@ -4060,6 +4708,18 @@
     "fullName": "Nathan Mensah"
   },
   {
+    "cfId": 5548,
+    "fullName": "Nathan Source"
+  },
+  {
+    "cfId": 5558,
+    "fullName": "Nathan Source"
+  },
+  {
+    "cfId": 5560,
+    "fullName": "Nathan Source"
+  },
+  {
     "cfId": 19061,
     "fullName": "Naz Reid"
   },
@@ -4068,20 +4728,36 @@
     "fullName": "Neemias Queta"
   },
   {
-    "cfId": 2692,
-    "fullName": "Nerlens Noel"
+    "cfId": 5561,
+    "fullName": "Neil Button"
   },
   {
-    "cfId": 2041,
-    "fullName": "Nick Anderson"
+    "cfId": 5597,
+    "fullName": "Nelson Tucker"
   },
   {
-    "cfId": 2620,
-    "fullName": "Nick Calathes"
+    "cfId": 19030,
+    "fullName": "Nic Claxton"
+  },
+  {
+    "cfId": 709,
+    "fullName": "Nick Jones"
+  },
+  {
+    "cfId": 20654,
+    "fullName": "Nick Martinelli"
   },
   {
     "cfId": 17428,
     "fullName": "Nick Muszynski"
+  },
+  {
+    "cfId": 8032,
+    "fullName": "Nick Nurse"
+  },
+  {
+    "cfId": 5545,
+    "fullName": "Nick Perry"
   },
   {
     "cfId": 19241,
@@ -4092,52 +4768,16 @@
     "fullName": "Nick Smith Jr."
   },
   {
-    "cfId": 205,
-    "fullName": "Nick Van Exel"
-  },
-  {
     "cfId": 19016,
     "fullName": "Nickeil Alexander-Walker"
-  },
-  {
-    "cfId": 19247,
-    "fullName": "Nico Mannion"
   },
   {
     "cfId": 1530,
     "fullName": "Nicolas Batum"
   },
   {
-    "cfId": 19030,
-    "fullName": "Nicolas Claxton"
-  },
-  {
-    "cfId": 6015,
-    "fullName": "Nicolas Laprovittola"
-  },
-  {
-    "cfId": 2653,
-    "fullName": "Nicolo Melli"
-  },
-  {
-    "cfId": 17078,
-    "fullName": "Nigel Hayes"
-  },
-  {
-    "cfId": 17054,
-    "fullName": "Nigel Williams-Goss"
-  },
-  {
-    "cfId": 35109,
-    "fullName": "Nihat Kerimoglu"
-  },
-  {
-    "cfId": 2928,
-    "fullName": "Nikita Kurbanov"
-  },
-  {
-    "cfId": 1632,
-    "fullName": "Nikki Lukas"
+    "cfId": 19995,
+    "fullName": "Nigel Hayes-Davis"
   },
   {
     "cfId": 19836,
@@ -4152,18 +4792,6 @@
     "fullName": "Nikola Jovic"
   },
   {
-    "cfId": 2936,
-    "fullName": "Nikola Kalinic"
-  },
-  {
-    "cfId": 7525,
-    "fullName": "Nikola Milutinov"
-  },
-  {
-    "cfId": 2534,
-    "fullName": "Nikola Mirotic"
-  },
-  {
     "cfId": 19862,
     "fullName": "Nikola Topic"
   },
@@ -4172,12 +4800,48 @@
     "fullName": "Nikola Vucevic"
   },
   {
+    "cfId": 1866,
+    "fullName": "Nino Samuel"
+  },
+  {
+    "cfId": 1866,
+    "fullName": "Nino Samuel"
+  },
+  {
+    "cfId": 19959,
+    "fullName": "Nique Clifford"
+  },
+  {
+    "cfId": 19947,
+    "fullName": "Noa Essengue"
+  },
+  {
     "cfId": 19620,
     "fullName": "Noah Clowney"
   },
   {
-    "cfId": 4509,
-    "fullName": "Noah Vonleh"
+    "cfId": 19967,
+    "fullName": "Noah Penda"
+  },
+  {
+    "cfId": 19954,
+    "fullName": "Nolan Traore"
+  },
+  {
+    "cfId": 20031,
+    "fullName": "Norchad Omier"
+  },
+  {
+    "cfId": 5578,
+    "fullName": "Norm Nicholson"
+  },
+  {
+    "cfId": 5126,
+    "fullName": "Norm Sanders"
+  },
+  {
+    "cfId": 5537,
+    "fullName": "Norm Sanders"
   },
   {
     "cfId": 7545,
@@ -4188,10 +4852,6 @@
     "fullName": "O'Shae Brissett"
   },
   {
-    "cfId": 17022,
-    "fullName": "OG Anunoby"
-  },
-  {
     "cfId": 19207,
     "fullName": "Obi Toppin"
   },
@@ -4200,8 +4860,16 @@
     "fullName": "Ochai Agbaji"
   },
   {
-    "cfId": 2015,
-    "fullName": "Oliver Miller"
+    "cfId": 2111,
+    "fullName": "Ocie Henderson"
+  },
+  {
+    "cfId": 5163,
+    "fullName": "Oded Kattash"
+  },
+  {
+    "cfId": 17022,
+    "fullName": "OG Anunoby"
   },
   {
     "cfId": 17089,
@@ -4210,10 +4878,6 @@
   {
     "cfId": 19623,
     "fullName": "Olivier-Maxence Prosper"
-  },
-  {
-    "cfId": 19667,
-    "fullName": "Omari Moore"
   },
   {
     "cfId": 19279,
@@ -4232,52 +4896,24 @@
     "fullName": "Orlando Robinson"
   },
   {
-    "cfId": 36008,
-    "fullName": "Orlando Suarez"
-  },
-  {
-    "cfId": 1727,
-    "fullName": "Orlando Woolridge"
-  },
-  {
-    "cfId": 733,
-    "fullName": "Oscar Robertson"
-  },
-  {
     "cfId": 19677,
     "fullName": "Oscar Tshiebwe"
-  },
-  {
-    "cfId": 19380,
-    "fullName": "Oscar da Silva"
   },
   {
     "cfId": 19851,
     "fullName": "Oso Ighodaro"
   },
   {
-    "cfId": 2019,
-    "fullName": "Otis Thorpe"
-  },
-  {
-    "cfId": 2689,
-    "fullName": "Otto Porter"
+    "cfId": 20640,
+    "fullName": "Otega Oweh"
   },
   {
     "cfId": 19410,
     "fullName": "Ousmane Dieng"
   },
   {
-    "cfId": 19841,
-    "fullName": "Ousmane N'diaye"
-  },
-  {
     "cfId": 17083,
     "fullName": "P.J. Dozier"
-  },
-  {
-    "cfId": 19867,
-    "fullName": "P.J. Hall"
   },
   {
     "cfId": 2513,
@@ -4286,6 +4922,14 @@
   {
     "cfId": 19011,
     "fullName": "P.J. Washington"
+  },
+  {
+    "cfId": 2512,
+    "fullName": "Pablo Prigioni"
+  },
+  {
+    "cfId": 5091,
+    "fullName": "Paco Redondo"
   },
   {
     "cfId": 19814,
@@ -4304,6 +4948,14 @@
     "fullName": "Pat Connaughton"
   },
   {
+    "cfId": 5579,
+    "fullName": "Pat Ellis"
+  },
+  {
+    "cfId": 5578,
+    "fullName": "Pat Franklin"
+  },
+  {
     "cfId": 19913,
     "fullName": "Pat Spencer"
   },
@@ -4316,12 +4968,12 @@
     "fullName": "Patrick Beverley"
   },
   {
-    "cfId": 940,
-    "fullName": "Patrick Ewing"
-  },
-  {
     "cfId": 19701,
     "fullName": "Patrick Gardner"
+  },
+  {
+    "cfId": 5570,
+    "fullName": "Patrick Holt"
   },
   {
     "cfId": 19203,
@@ -4332,56 +4984,108 @@
     "fullName": "Patty Mills"
   },
   {
+    "cfId": 5596,
+    "fullName": "Paul Babcock"
+  },
+  {
     "cfId": 1810,
     "fullName": "Paul George"
   },
   {
-    "cfId": 1961,
-    "fullName": "Paul Mokeski"
+    "cfId": 5108,
+    "fullName": "Paul Pressey"
   },
   {
     "cfId": 19257,
-    "fullName": "Paul Reed"
+    "fullName": "Paul Reed Jr."
   },
   {
     "cfId": 8865,
     "fullName": "Paul Watson"
   },
   {
-    "cfId": 2566,
-    "fullName": "Paulius Jankunas"
-  },
-  {
     "cfId": 19225,
     "fullName": "Payton Pritchard"
-  },
-  {
-    "cfId": 19869,
-    "fullName": "Payton Sandfort"
-  },
-  {
-    "cfId": 450,
-    "fullName": "Peja Stojakovic"
   },
   {
     "cfId": 19830,
     "fullName": "Pelle Larsson"
   },
   {
-    "cfId": 2040,
-    "fullName": "Penny Hardaway"
+    "cfId": 5564,
+    "fullName": "Pete Morrison"
   },
   {
     "cfId": 19706,
     "fullName": "Pete Nance"
   },
   {
+    "cfId": 5512,
+    "fullName": "Pete Youngman"
+  },
+  {
+    "cfId": 5562,
+    "fullName": "Peter Atkins"
+  },
+  {
+    "cfId": 19707,
+    "fullName": "Peter Suder"
+  },
+  {
+    "cfId": 5583,
+    "fullName": "Peter Walker"
+  },
+  {
     "cfId": 19429,
     "fullName": "Peyton Watson"
   },
   {
+    "cfId": 5076,
+    "fullName": "Phil Jackson"
+  },
+  {
+    "cfId": 5076,
+    "fullName": "Phil Jackson"
+  },
+  {
+    "cfId": 5076,
+    "fullName": "Phil Jackson"
+  },
+  {
+    "cfId": 5076,
+    "fullName": "Phil Jackson"
+  },
+  {
+    "cfId": 5562,
+    "fullName": "Phil Jones"
+  },
+  {
+    "cfId": 5576,
+    "fullName": "Phil Thomas"
+  },
+  {
+    "cfId": 5115,
+    "fullName": "Phil Weber"
+  },
+  {
     "cfId": 10601,
     "fullName": "Philip Alston"
+  },
+  {
+    "cfId": 5546,
+    "fullName": "Philip Turner"
+  },
+  {
+    "cfId": 5534,
+    "fullName": "Phillip Turner"
+  },
+  {
+    "cfId": 19366,
+    "fullName": "Phillip Wheeler"
+  },
+  {
+    "cfId": 19867,
+    "fullName": "PJ Hall"
   },
   {
     "cfId": 19219,
@@ -4392,16 +5096,36 @@
     "fullName": "Quentin Grimes"
   },
   {
+    "cfId": 5569,
+    "fullName": "Quentin Payton"
+  },
+  {
+    "cfId": 5579,
+    "fullName": "Quentin Payton"
+  },
+  {
     "cfId": 19494,
     "fullName": "Quenton Jackson"
+  },
+  {
+    "cfId": 5201,
+    "fullName": "Quin Snyder"
   },
   {
     "cfId": 10612,
     "fullName": "Quincy Guerrier"
   },
   {
-    "cfId": 20453,
+    "cfId": 19929,
     "fullName": "Quincy Olivari"
+  },
+  {
+    "cfId": 5580,
+    "fullName": "Quincy Rhodes"
+  },
+  {
+    "cfId": 853,
+    "fullName": "Quinn Kaneko"
   },
   {
     "cfId": 19847,
@@ -4424,20 +5148,68 @@
     "fullName": "RaiQuan Gray"
   },
   {
-    "cfId": 1968,
-    "fullName": "Randy Wittman"
+    "cfId": 5569,
+    "fullName": "Ralph Jones"
   },
   {
-    "cfId": 2733,
-    "fullName": "Raul Neto"
+    "cfId": 5146,
+    "fullName": "Ralph Lewis"
   },
   {
-    "cfId": 10641,
-    "fullName": "RayJ Dennis"
+    "cfId": 5550,
+    "fullName": "Randy Downey"
+  },
+  {
+    "cfId": 5566,
+    "fullName": "Randy Ford"
+  },
+  {
+    "cfId": 5577,
+    "fullName": "Randy Lee"
+  },
+  {
+    "cfId": 5541,
+    "fullName": "Randy Lucas"
+  },
+  {
+    "cfId": 5551,
+    "fullName": "Randy Lucas"
+  },
+  {
+    "cfId": 5553,
+    "fullName": "Randy Lucas"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Randy Lucas"
+  },
+  {
+    "cfId": 5593,
+    "fullName": "Randy Turner"
+  },
+  {
+    "cfId": 19966,
+    "fullName": "Rasheer Fleming"
+  },
+  {
+    "cfId": 5556,
+    "fullName": "Ray Channing"
+  },
+  {
+    "cfId": 5548,
+    "fullName": "Ray Grant"
+  },
+  {
+    "cfId": 5580,
+    "fullName": "Ray Thomas"
   },
   {
     "cfId": 19642,
     "fullName": "Rayan Rupert"
+  },
+  {
+    "cfId": 10641,
+    "fullName": "RayJ Dennis"
   },
   {
     "cfId": 19914,
@@ -4452,44 +5224,56 @@
     "fullName": "Reggie Bullock"
   },
   {
-    "cfId": 8608,
-    "fullName": "Reggie Geary"
-  },
-  {
     "cfId": 2156,
     "fullName": "Reggie Jackson"
   },
   {
-    "cfId": 4021,
-    "fullName": "Reggie Miller"
+    "cfId": 5572,
+    "fullName": "Reid Hamilton"
   },
   {
-    "cfId": 2027,
-    "fullName": "Reggie Williams"
+    "cfId": 1488,
+    "fullName": "Rhys Jones"
   },
   {
-    "cfId": 2009,
-    "fullName": "Richard Dumas"
+    "cfId": 5571,
+    "fullName": "Richard Best"
   },
   {
-    "cfId": 2221,
-    "fullName": "Richard Johnson"
+    "cfId": 5578,
+    "fullName": "Richard Cruise"
+  },
+  {
+    "cfId": 5575,
+    "fullName": "Richard Mills"
   },
   {
     "cfId": 7536,
     "fullName": "Richaun Holmes"
   },
   {
-    "cfId": 8019,
+    "cfId": 20631,
+    "fullName": "Richie Saunders"
+  },
+  {
+    "cfId": 5069,
+    "fullName": "Rick Adelman"
+  },
+  {
+    "cfId": 5594,
+    "fullName": "Rick Best"
+  },
+  {
+    "cfId": 5011,
     "fullName": "Rick Carlisle"
   },
   {
-    "cfId": 74,
-    "fullName": "Rick Fox"
+    "cfId": 5522,
+    "fullName": "Rick Higgins"
   },
   {
-    "cfId": 1983,
-    "fullName": "Rick Mahorn"
+    "cfId": 5578,
+    "fullName": "Rick Hughes"
   },
   {
     "cfId": 19661,
@@ -4500,16 +5284,44 @@
     "fullName": "Ricky Rubio"
   },
   {
-    "cfId": 4024,
-    "fullName": "Rik Smits"
-  },
-  {
     "cfId": 19918,
     "fullName": "Riley Minix"
   },
   {
-    "cfId": 35002,
-    "fullName": "Rob Tinsley"
+    "cfId": 20021,
+    "fullName": "RJ Davis"
+  },
+  {
+    "cfId": 19999,
+    "fullName": "RJ Luis Jr."
+  },
+  {
+    "cfId": 5537,
+    "fullName": "Rob Dawson"
+  },
+  {
+    "cfId": 5581,
+    "fullName": "Rob Evans"
+  },
+  {
+    "cfId": 5133,
+    "fullName": "Rob Gatson"
+  },
+  {
+    "cfId": 5539,
+    "fullName": "Rob Gatson"
+  },
+  {
+    "cfId": 5547,
+    "fullName": "Rob Jackson"
+  },
+  {
+    "cfId": 5573,
+    "fullName": "Rob Strong"
+  },
+  {
+    "cfId": 20660,
+    "fullName": "Robbie Avila"
   },
   {
     "cfId": 10412,
@@ -4524,16 +5336,20 @@
     "fullName": "Robert Dillingham"
   },
   {
-    "cfId": 2064,
-    "fullName": "Robert Horry"
+    "cfId": 5091,
+    "fullName": "Robert Hall"
   },
   {
-    "cfId": 769,
-    "fullName": "Robert Parish"
+    "cfId": 5596,
+    "fullName": "Robert Hall"
   },
   {
-    "cfId": 2220,
-    "fullName": "Robert Williams"
+    "cfId": 5025,
+    "fullName": "Robert Pack"
+  },
+  {
+    "cfId": 5553,
+    "fullName": "Robert Panel"
   },
   {
     "cfId": 17426,
@@ -4544,40 +5360,28 @@
     "fullName": "Robin Lopez"
   },
   {
-    "cfId": 2080,
-    "fullName": "Rod Higgins"
+    "cfId": 19980,
+    "fullName": "Rocco Zikarsky"
   },
   {
-    "cfId": 1997,
-    "fullName": "Rodney McCray"
+    "cfId": 5570,
+    "fullName": "Rod Garnett"
   },
   {
-    "cfId": 8762,
-    "fullName": "Rodney McGruder"
+    "cfId": 5580,
+    "fullName": "Rod Garnett"
   },
   {
-    "cfId": 2030,
-    "fullName": "Rodney Rogers"
+    "cfId": 5513,
+    "fullName": "Roger Hinds"
   },
   {
-    "cfId": 1637,
-    "fullName": "Rodrigue Beaubois"
+    "cfId": 5162,
+    "fullName": "Ron Finley"
   },
   {
-    "cfId": 2922,
-    "fullName": "Rokas Giedraitis"
-  },
-  {
-    "cfId": 19333,
-    "fullName": "Rokas Jokubaitis"
-  },
-  {
-    "cfId": 19013,
-    "fullName": "Romeo Langford"
-  },
-  {
-    "cfId": 1758,
-    "fullName": "Ron Harper"
+    "cfId": 5593,
+    "fullName": "Ron Finley"
   },
   {
     "cfId": 19470,
@@ -4588,28 +5392,48 @@
     "fullName": "Ron Holland II"
   },
   {
+    "cfId": 5543,
+    "fullName": "Ron Hollis"
+  },
+  {
+    "cfId": 5553,
+    "fullName": "Ron Hollis"
+  },
+  {
+    "cfId": 5555,
+    "fullName": "Ron Hollis"
+  },
+  {
+    "cfId": 5566,
+    "fullName": "Ron James"
+  },
+  {
+    "cfId": 5104,
+    "fullName": "Ron Rothstein"
+  },
+  {
+    "cfId": 5530,
+    "fullName": "Ron Sampson"
+  },
+  {
+    "cfId": 5534,
+    "fullName": "Ronald Hamlin"
+  },
+  {
+    "cfId": 1248,
+    "fullName": "Roy Tse"
+  },
+  {
+    "cfId": 1254,
+    "fullName": "Royal Ivey"
+  },
+  {
     "cfId": 8795,
     "fullName": "Royce O'Neale"
   },
   {
-    "cfId": 35971,
-    "fullName": "Ruben Finley"
-  },
-  {
-    "cfId": 2535,
-    "fullName": "Rudy Fernandez"
-  },
-  {
-    "cfId": 1341,
-    "fullName": "Rudy Gay"
-  },
-  {
     "cfId": 2713,
     "fullName": "Rudy Gobert"
-  },
-  {
-    "cfId": 1922,
-    "fullName": "Rudy Larusso"
   },
   {
     "cfId": 19008,
@@ -4620,16 +5444,68 @@
     "fullName": "Russell Westbrook"
   },
   {
+    "cfId": 5548,
+    "fullName": "Rustin Lee"
+  },
+  {
+    "cfId": 5552,
+    "fullName": "Ryan Annear"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Ryan Annear"
+  },
+  {
     "cfId": 8808,
     "fullName": "Ryan Arcidiacono"
+  },
+  {
+    "cfId": 8044,
+    "fullName": "Ryan Bowen"
+  },
+  {
+    "cfId": 20636,
+    "fullName": "Ryan Conwell"
   },
   {
     "cfId": 19873,
     "fullName": "Ryan Dunn"
   },
   {
+    "cfId": 19969,
+    "fullName": "Ryan Kalkbrenner"
+  },
+  {
+    "cfId": 5540,
+    "fullName": "Ryan Lantz"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Ryan Lantz"
+  },
+  {
+    "cfId": 5598,
+    "fullName": "Ryan Lantz"
+  },
+  {
+    "cfId": 20005,
+    "fullName": "Ryan Nembhard"
+  },
+  {
     "cfId": 19443,
     "fullName": "Ryan Rollins"
+  },
+  {
+    "cfId": 8033,
+    "fullName": "Ryan Saunders"
+  },
+  {
+    "cfId": 5540,
+    "fullName": "Ryan Walker"
+  },
+  {
+    "cfId": 5550,
+    "fullName": "Ryan Walker"
   },
   {
     "cfId": 19237,
@@ -4640,12 +5516,16 @@
     "fullName": "Saddiq Bey"
   },
   {
-    "cfId": 2020,
-    "fullName": "Sam Cassell"
+    "cfId": 20047,
+    "fullName": "Saint Thomas"
   },
   {
-    "cfId": 34929,
-    "fullName": "Sam Drexler"
+    "cfId": 19993,
+    "fullName": "Saliou Niang"
+  },
+  {
+    "cfId": 5170,
+    "fullName": "Sam Cassell"
   },
   {
     "cfId": 19371,
@@ -4660,20 +5540,8 @@
     "fullName": "Sam Peek"
   },
   {
-    "cfId": 1747,
-    "fullName": "Sam Perkins"
-  },
-  {
-    "cfId": 1967,
-    "fullName": "Sam Vincent"
-  },
-  {
-    "cfId": 4253,
-    "fullName": "Samaki Walker"
-  },
-  {
-    "cfId": 6179,
-    "fullName": "Samson Ruzhentsev"
+    "cfId": 5584,
+    "fullName": "Sammy Washington"
   },
   {
     "cfId": 19353,
@@ -4684,10 +5552,6 @@
     "fullName": "Santi Aldama"
   },
   {
-    "cfId": 36126,
-    "fullName": "Sarunas Samanic"
-  },
-  {
     "cfId": 17056,
     "fullName": "Sasha Vezenkov"
   },
@@ -4696,64 +5560,68 @@
     "fullName": "Scoot Henderson"
   },
   {
-    "cfId": 2092,
-    "fullName": "Scot Pollard"
+    "cfId": 5545,
+    "fullName": "Scott Blake"
   },
   {
-    "cfId": 1965,
-    "fullName": "Scott Wedman"
+    "cfId": 5555,
+    "fullName": "Scott Blake"
   },
   {
-    "cfId": 1996,
-    "fullName": "Scott Williams"
+    "cfId": 5557,
+    "fullName": "Scott Blake"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Scott Blake"
+  },
+  {
+    "cfId": 5017,
+    "fullName": "Scott Brooks"
+  },
+  {
+    "cfId": 5111,
+    "fullName": "Scott Layden"
+  },
+  {
+    "cfId": 5521,
+    "fullName": "Scott McCullough"
   },
   {
     "cfId": 19303,
     "fullName": "Scottie Barnes"
   },
   {
-    "cfId": 1734,
-    "fullName": "Scottie Pippen"
-  },
-  {
-    "cfId": 2909,
-    "fullName": "Scottie Wilbekin"
-  },
-  {
     "cfId": 19462,
     "fullName": "Scotty Pippen Jr."
   },
   {
-    "cfId": 2071,
-    "fullName": "Sean Elliott"
+    "cfId": 5562,
+    "fullName": "Sean Barry"
   },
   {
-    "cfId": 1866,
-    "fullName": "Sean Rooks"
+    "cfId": 5553,
+    "fullName": "Sean Cook"
   },
   {
-    "cfId": 34522,
-    "fullName": "Sean Vincent"
+    "cfId": 5584,
+    "fullName": "Sean Gatson"
   },
   {
-    "cfId": 19014,
-    "fullName": "Sekou Doumbouya"
+    "cfId": 20025,
+    "fullName": "Sean Pedulla"
   },
   {
-    "cfId": 17036,
-    "fullName": "Semi Ojeleye"
+    "cfId": 5595,
+    "fullName": "Sean Smith"
   },
   {
-    "cfId": 2926,
-    "fullName": "Semyon Antonov"
+    "cfId": 20624,
+    "fullName": "Sergio De Larrea"
   },
   {
-    "cfId": 2540,
-    "fullName": "Sergio Llull"
-  },
-  {
-    "cfId": 2562,
-    "fullName": "Sergio Rodriguez"
+    "cfId": 5083,
+    "fullName": "Sergio Scariolo"
   },
   {
     "cfId": 8705,
@@ -4780,48 +5648,28 @@
     "fullName": "Shake Milton"
   },
   {
-    "cfId": 2704,
-    "fullName": "Shane Larkin"
-  },
-  {
-    "cfId": 2955,
-    "fullName": "Shaq McKissic"
-  },
-  {
-    "cfId": 8832,
-    "fullName": "Shaquille Harrison"
-  },
-  {
-    "cfId": 948,
-    "fullName": "Shaquille O'Neal"
-  },
-  {
     "cfId": 19490,
     "fullName": "Shareef O'Neal"
-  },
-  {
-    "cfId": 36129,
-    "fullName": "Shareef Queen"
   },
   {
     "cfId": 19347,
     "fullName": "Sharife Cooper"
   },
   {
-    "cfId": 2917,
-    "fullName": "Shavon Shields"
+    "cfId": 1595,
+    "fullName": "Shawn Lee"
   },
   {
-    "cfId": 34260,
-    "fullName": "Shawn Conley"
+    "cfId": 5196,
+    "fullName": "Sidney Lowe"
   },
   {
-    "cfId": 323,
-    "fullName": "Shawn Kemp"
+    "cfId": 5130,
+    "fullName": "Sidney Sherman"
   },
   {
-    "cfId": 2121,
-    "fullName": "Sidney Green"
+    "cfId": 5538,
+    "fullName": "Sidney Sherman"
   },
   {
     "cfId": 19643,
@@ -4830,6 +5678,10 @@
   {
     "cfId": 17090,
     "fullName": "Simone Fontecchio"
+  },
+  {
+    "cfId": 19968,
+    "fullName": "Sion James"
   },
   {
     "cfId": 19671,
@@ -4844,14 +5696,6 @@
     "fullName": "Skylar Mays"
   },
   {
-    "cfId": 4481,
-    "fullName": "Slava Medvedenko"
-  },
-  {
-    "cfId": 2709,
-    "fullName": "Solomon Hill"
-  },
-  {
     "cfId": 4628,
     "fullName": "Spencer Dinwiddie"
   },
@@ -4860,64 +5704,96 @@
     "fullName": "Spencer Jones"
   },
   {
-    "cfId": 34599,
-    "fullName": "Spencer Sims"
+    "cfId": 5575,
+    "fullName": "Stan Davidson"
   },
   {
-    "cfId": 1737,
-    "fullName": "Spud Webb"
-  },
-  {
-    "cfId": 7507,
-    "fullName": "Stanley Johnson"
+    "cfId": 5574,
+    "fullName": "Stan Olson"
   },
   {
     "cfId": 19483,
     "fullName": "Stanley Umude"
   },
   {
-    "cfId": 2907,
-    "fullName": "Stefan Jovic"
-  },
-  {
-    "cfId": 2910,
-    "fullName": "Stefano Tonut"
-  },
-  {
     "cfId": 1612,
     "fullName": "Stephen Curry"
+  },
+  {
+    "cfId": 5156,
+    "fullName": "Stephen Silas"
   },
   {
     "cfId": 19805,
     "fullName": "Stephon Castle"
   },
   {
-    "cfId": 17045,
-    "fullName": "Sterling Brown"
+    "cfId": 5556,
+    "fullName": "Steve Brady"
   },
   {
-    "cfId": 45,
+    "cfId": 5004,
     "fullName": "Steve Kerr"
   },
   {
-    "cfId": 2303,
-    "fullName": "Steve Mix"
+    "cfId": 5581,
+    "fullName": "Steve Murray"
+  },
+  {
+    "cfId": 8038,
+    "fullName": "Steve Nash"
+  },
+  {
+    "cfId": 8038,
+    "fullName": "Steve Nash"
   },
   {
     "cfId": 1497,
     "fullName": "Steve Park"
   },
   {
+    "cfId": 20020,
+    "fullName": "Steve Settle III"
+  },
+  {
+    "cfId": 5501,
+    "fullName": "Steve Stricker"
+  },
+  {
+    "cfId": 5579,
+    "fullName": "Steve Williams"
+  },
+  {
+    "cfId": 5553,
+    "fullName": "Steve Woods"
+  },
+  {
     "cfId": 2698,
     "fullName": "Steven Adams"
   },
   {
-    "cfId": 19290,
-    "fullName": "Steven Enoch"
+    "cfId": 5568,
+    "fullName": "Steven Bell"
+  },
+  {
+    "cfId": 20019,
+    "fullName": "Steven Crowl"
+  },
+  {
+    "cfId": 5533,
+    "fullName": "Steven Klein"
+  },
+  {
+    "cfId": 5545,
+    "fullName": "Steven Klein"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Steven Klein"
   },
   {
     "cfId": 17446,
-    "fullName": "Sviatoslav Mykhailiuk"
+    "fullName": "Svi Mykhailiuk"
   },
   {
     "cfId": 7577,
@@ -4928,12 +5804,8 @@
     "fullName": "T.J. Warren Jr."
   },
   {
-    "cfId": 19078,
-    "fullName": "Tacko Fall"
-  },
-  {
-    "cfId": 2925,
-    "fullName": "Tadas Sederkerskis"
+    "cfId": 19989,
+    "fullName": "Taelon Peter"
   },
   {
     "cfId": 10552,
@@ -4948,12 +5820,20 @@
     "fullName": "Talen Horton-Tucker"
   },
   {
+    "cfId": 20001,
+    "fullName": "Tamar Bates"
+  },
+  {
+    "cfId": 1653,
+    "fullName": "Taran Armstrong"
+  },
+  {
     "cfId": 19416,
     "fullName": "Tari Eason"
   },
   {
-    "cfId": 19655,
-    "fullName": "Tarik Biberovic"
+    "cfId": 20625,
+    "fullName": "Tarris Reed Jr."
   },
   {
     "cfId": 17382,
@@ -4968,8 +5848,16 @@
     "fullName": "Taylor Hendricks"
   },
   {
+    "cfId": 5549,
+    "fullName": "Taylor West"
+  },
+  {
+    "cfId": 5561,
+    "fullName": "Taylor West"
+  },
+  {
     "cfId": 19915,
-    "fullName": "Taz\u00e9 Moore"
+    "fullName": "Tazé Moore"
   },
   {
     "cfId": 19047,
@@ -4980,32 +5868,44 @@
     "fullName": "Terence Davis II"
   },
   {
+    "cfId": 5571,
+    "fullName": "Terence Gambin"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Terence Gambin"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Terence Gambin"
+  },
+  {
     "cfId": 19674,
     "fullName": "Terquavion Smith"
   },
   {
-    "cfId": 2451,
-    "fullName": "Terrence Ross"
+    "cfId": 5530,
+    "fullName": "Terrence Gambin"
   },
   {
     "cfId": 19875,
     "fullName": "Terrence Shannon Jr."
   },
   {
-    "cfId": 1748,
-    "fullName": "Terry Porter"
-  },
-  {
     "cfId": 7515,
     "fullName": "Terry Rozier III"
   },
   {
-    "cfId": 19398,
-    "fullName": "Terry Taylor"
+    "cfId": 5038,
+    "fullName": "Terry Stotts"
   },
   {
-    "cfId": 4164,
-    "fullName": "Terry Teagle"
+    "cfId": 5038,
+    "fullName": "Terry Stotts"
+  },
+  {
+    "cfId": 19398,
+    "fullName": "Terry Taylor"
   },
   {
     "cfId": 1421,
@@ -5020,108 +5920,120 @@
     "fullName": "Theo Maledon"
   },
   {
-    "cfId": 34990,
-    "fullName": "Theo Nichols"
-  },
-  {
-    "cfId": 17464,
-    "fullName": "Theo Pinson"
-  },
-  {
-    "cfId": 36017,
-    "fullName": "Thierry Lambert"
+    "cfId": 5587,
+    "fullName": "Theo West"
   },
   {
     "cfId": 17041,
     "fullName": "Thomas Bryant"
   },
   {
-    "cfId": 2901,
-    "fullName": "Thomas Walkup"
+    "cfId": 19950,
+    "fullName": "Thomas Sorber"
   },
   {
     "cfId": 17388,
     "fullName": "Thon Maker"
   },
   {
-    "cfId": 2626,
-    "fullName": "Tibor Pleiss"
+    "cfId": 1863,
+    "fullName": "Tiago Splitter"
+  },
+  {
+    "cfId": 1863,
+    "fullName": "Tiago Splitter"
   },
   {
     "cfId": 19879,
     "fullName": "Tidjane Salaun"
   },
   {
-    "cfId": 2072,
-    "fullName": "Tim Duncan"
+    "cfId": 5584,
+    "fullName": "Tim Francis"
+  },
+  {
+    "cfId": 5535,
+    "fullName": "Tim Green"
   },
   {
     "cfId": 2710,
     "fullName": "Tim Hardaway Jr."
   },
   {
+    "cfId": 1403,
+    "fullName": "Tim Schroeder"
+  },
+  {
+    "cfId": 1403,
+    "fullName": "Tim Schroeder"
+  },
+  {
+    "cfId": 5517,
+    "fullName": "Tim Walsh"
+  },
+  {
     "cfId": 10511,
     "fullName": "Timmy Allen"
+  },
+  {
+    "cfId": 20647,
+    "fullName": "Tobi Lawal"
   },
   {
     "cfId": 2149,
     "fullName": "Tobias Harris"
   },
   {
-    "cfId": 34580,
-    "fullName": "Todd Long"
-  },
-  {
-    "cfId": 539,
-    "fullName": "Todd MacCulloch"
+    "cfId": 5557,
+    "fullName": "Todd Williams"
   },
   {
     "cfId": 10582,
     "fullName": "Tolu Smith"
   },
   {
-    "cfId": 2012,
-    "fullName": "Tom Chambers"
+    "cfId": 5528,
+    "fullName": "Tom Abdenour"
   },
   {
-    "cfId": 1916,
-    "fullName": "Tom Heinsohn"
+    "cfId": 5577,
+    "fullName": "Tom Herman"
   },
   {
-    "cfId": 1915,
-    "fullName": "Tom Sanders"
-  },
-  {
-    "cfId": 2081,
-    "fullName": "Tom Tolbert"
-  },
-  {
-    "cfId": 2475,
-    "fullName": "Tomas Satoransky"
-  },
-  {
-    "cfId": 46,
-    "fullName": "Toni Kukoc"
-  },
-  {
-    "cfId": 2006,
-    "fullName": "Tony Bennett"
+    "cfId": 1402,
+    "fullName": "Tomas Masiulis"
   },
   {
     "cfId": 17027,
     "fullName": "Tony Bradley"
   },
   {
-    "cfId": 4166,
-    "fullName": "Tony Smith"
+    "cfId": 5164,
+    "fullName": "Tony Brown"
   },
   {
-    "cfId": 2930,
-    "fullName": "Tonye Jekiri"
+    "cfId": 5561,
+    "fullName": "Tony Hamilton"
   },
   {
-    "cfId": 2946,
-    "fullName": "Tornike Shengelia"
+    "cfId": 5561,
+    "fullName": "Tony Hamilton"
+  },
+  {
+    "cfId": 5560,
+    "fullName": "Tony Hill"
+  },
+  {
+    "cfId": 5588,
+    "fullName": "Tony Johnson"
+  },
+  {
+    "cfId": 1487,
+    "fullName": "Tor n"
+  },
+  {
+    "cfId": 1487,
+    "fullName": "Tor n"
   },
   {
     "cfId": 8800,
@@ -5140,16 +6052,20 @@
     "fullName": "Trae Young"
   },
   {
-    "cfId": 267,
-    "fullName": "Travis Best"
+    "cfId": 5561,
+    "fullName": "Travis Ayers"
+  },
+  {
+    "cfId": 5588,
+    "fullName": "Travis Evans"
   },
   {
     "cfId": 19656,
     "fullName": "Trayce Jackson-Davis"
   },
   {
-    "cfId": 36065,
-    "fullName": "Tre Hopkins"
+    "cfId": 19941,
+    "fullName": "Tre Johnson III"
   },
   {
     "cfId": 19240,
@@ -5160,16 +6076,32 @@
     "fullName": "Tre Mann"
   },
   {
-    "cfId": 1969,
-    "fullName": "Tree Rollins"
-  },
-  {
     "cfId": 19372,
     "fullName": "Trendon Watford"
   },
   {
     "cfId": 19282,
     "fullName": "Trent Forrest"
+  },
+  {
+    "cfId": 5576,
+    "fullName": "Trent Mason"
+  },
+  {
+    "cfId": 5531,
+    "fullName": "Trent O'Brien"
+  },
+  {
+    "cfId": 5543,
+    "fullName": "Trent O'Brien"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Trent O'Brien"
+  },
+  {
+    "cfId": 5563,
+    "fullName": "Trent Spencer"
   },
   {
     "cfId": 19827,
@@ -5180,11 +6112,7 @@
     "fullName": "Trevelin Queen"
   },
   {
-    "cfId": 19476,
-    "fullName": "Trevion Williams"
-  },
-  {
-    "cfId": 19820,
+    "cfId": 20634,
     "fullName": "Trevon Brazile"
   },
   {
@@ -5200,16 +6128,20 @@
     "fullName": "Trevor Keels"
   },
   {
+    "cfId": 5594,
+    "fullName": "Trevor Moore"
+  },
+  {
     "cfId": 19843,
     "fullName": "Trey Alexander"
   },
   {
-    "cfId": 24209,
-    "fullName": "Trey Jemison"
+    "cfId": 19933,
+    "fullName": "Trey Jemison III"
   },
   {
-    "cfId": 24209,
-    "fullName": "Trey Jemison III"
+    "cfId": 20658,
+    "fullName": "Trey Kaufman-Renn"
   },
   {
     "cfId": 7511,
@@ -5240,10 +6172,6 @@
     "fullName": "Tristan Vukcevic"
   },
   {
-    "cfId": 19846,
-    "fullName": "Tristan da Silva"
-  },
-  {
     "cfId": 19872,
     "fullName": "Tristen Newton"
   },
@@ -5252,20 +6180,20 @@
     "fullName": "Troy Brown Jr."
   },
   {
-    "cfId": 3036,
-    "fullName": "TwoKay TwoKay"
+    "cfId": 8050,
+    "fullName": "Tuomas Iisalo"
   },
   {
     "cfId": 19023,
     "fullName": "Ty Jerome"
   },
   {
-    "cfId": 19428,
-    "fullName": "TyTy Washington Jr."
+    "cfId": 20642,
+    "fullName": "Tyler Bilodeau"
   },
   {
-    "cfId": 8819,
-    "fullName": "Tyler Cavanaugh"
+    "cfId": 20038,
+    "fullName": "Tyler Burton"
   },
   {
     "cfId": 19012,
@@ -5274,6 +6202,10 @@
   {
     "cfId": 19813,
     "fullName": "Tyler Kolek"
+  },
+  {
+    "cfId": 20646,
+    "fullName": "Tyler Nickel"
   },
   {
     "cfId": 2092,
@@ -5296,7 +6228,7 @@
     "fullName": "Tyrese Maxey"
   },
   {
-    "cfId": 19856,
+    "cfId": 19984,
     "fullName": "Tyrese Proctor"
   },
   {
@@ -5304,12 +6236,16 @@
     "fullName": "Tyrese Samuel"
   },
   {
-    "cfId": 58,
-    "fullName": "Tyrone Hill"
+    "cfId": 303,
+    "fullName": "Tyronn Lue"
   },
   {
     "cfId": 19486,
     "fullName": "Tyson Etienne"
+  },
+  {
+    "cfId": 19428,
+    "fullName": "TyTy Washington Jr."
   },
   {
     "cfId": 7523,
@@ -5320,6 +6256,10 @@
     "fullName": "Udoka Azubuike"
   },
   {
+    "cfId": 20652,
+    "fullName": "Ugonna Onyenso"
+  },
+  {
     "cfId": 19860,
     "fullName": "Ulrich Chomche"
   },
@@ -5328,28 +6268,12 @@
     "fullName": "Usman Garuba"
   },
   {
-    "cfId": 19059,
-    "fullName": "Vanja Marinkovic"
+    "cfId": 19938,
+    "fullName": "V.J. Edgecombe"
   },
   {
     "cfId": 2950,
     "fullName": "Vasilije Micic"
-  },
-  {
-    "cfId": 19231,
-    "fullName": "Vernon Carey Jr."
-  },
-  {
-    "cfId": 2017,
-    "fullName": "Vernon Maxwell"
-  },
-  {
-    "cfId": 1635,
-    "fullName": "Victor Claver"
-  },
-  {
-    "cfId": 36184,
-    "fullName": "Victor McKinnie"
   },
   {
     "cfId": 2688,
@@ -5360,60 +6284,68 @@
     "fullName": "Victor Wembanyama"
   },
   {
+    "cfId": 5537,
+    "fullName": "Vince Newsom"
+  },
+  {
+    "cfId": 5549,
+    "fullName": "Vince Newsom"
+  },
+  {
     "cfId": 19446,
     "fullName": "Vince Williams Jr."
-  },
-  {
-    "cfId": 2050,
-    "fullName": "Vincent Askew"
-  },
-  {
-    "cfId": 8858,
-    "fullName": "Vincent Poirier"
   },
   {
     "cfId": 10445,
     "fullName": "Vincent Valerio-Bodon"
   },
   {
-    "cfId": 1982,
-    "fullName": "Vinnie Johnson"
-  },
-  {
-    "cfId": 2070,
-    "fullName": "Vinny Del Negro"
-  },
-  {
     "cfId": 19236,
     "fullName": "Vit Krejci"
   },
   {
-    "cfId": 143,
-    "fullName": "Vlade Divac"
+    "cfId": 20006,
+    "fullName": "Vlad Goldin"
   },
   {
     "cfId": 17048,
     "fullName": "Vlatko Cancar"
   },
   {
-    "cfId": 17384,
-    "fullName": "Wade Baldwin IV"
+    "cfId": 20655,
+    "fullName": "Vsevolod Ishchenko"
   },
   {
     "cfId": 19421,
     "fullName": "Walker Kessler"
   },
   {
-    "cfId": 745,
-    "fullName": "Walt Frazier"
+    "cfId": 5508,
+    "fullName": "Wally Blase"
   },
   {
-    "cfId": 2115,
-    "fullName": "Walt Hazzard"
+    "cfId": 5592,
+    "fullName": "Walt Davis"
+  },
+  {
+    "cfId": 5552,
+    "fullName": "Walt Johnson"
+  },
+  {
+    "cfId": 19953,
+    "fullName": "Walter Clayton Jr."
+  },
+  {
+    "cfId": 5563,
+    "fullName": "Walter Collins"
   },
   {
     "cfId": 10594,
     "fullName": "Warren Washington"
+  },
+  {
+    "cfId": 5551,
+    "fullName": "Wayne Mack"
   },
   {
     "cfId": 17406,
@@ -5428,56 +6360,88 @@
     "fullName": "Wenyen Gabriel"
   },
   {
+    "cfId": 5563,
+    "fullName": "Wes Carter"
+  },
+  {
+    "cfId": 5533,
+    "fullName": "Wes McArthur"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Wes McArthur"
+  },
+  {
+    "cfId": 5571,
+    "fullName": "Wes McArthur"
+  },
+  {
+    "cfId": 5591,
+    "fullName": "Wes McArthur"
+  },
+  {
+    "cfId": 5159,
+    "fullName": "Wes Unseld Jr."
+  },
+  {
+    "cfId": 5159,
+    "fullName": "Wes Unseld Jr."
+  },
+  {
     "cfId": 1699,
     "fullName": "Wesley Matthews"
   },
   {
-    "cfId": 2483,
-    "fullName": "Will Barton III"
+    "cfId": 5573,
+    "fullName": "Will Francis"
   },
   {
-    "cfId": 2915,
-    "fullName": "Will Clyburn"
+    "cfId": 8045,
+    "fullName": "Will Hardy"
   },
   {
-    "cfId": 1755,
-    "fullName": "Will Perdue"
+    "cfId": 19991,
+    "fullName": "Will Richard"
   },
   {
     "cfId": 1951,
     "fullName": "Will Richardson"
   },
   {
-    "cfId": 34931,
-    "fullName": "William Goodrich"
+    "cfId": 19956,
+    "fullName": "Will Riley"
   },
   {
-    "cfId": 2220,
-    "fullName": "William Jones"
+    "cfId": 5560,
+    "fullName": "Will Rose"
   },
   {
-    "cfId": 7505,
-    "fullName": "Willie Cauley-Stein"
+    "cfId": 5523,
+    "fullName": "Will Sevening"
   },
   {
-    "cfId": 6471,
-    "fullName": "Willy Hernangomez"
+    "cfId": 5537,
+    "fullName": "William Morgan"
   },
   {
-    "cfId": 752,
-    "fullName": "Wilt Chamberlain"
+    "cfId": 5591,
+    "fullName": "William Morgan"
   },
   {
-    "cfId": 4299,
-    "fullName": "Winston Bennett"
+    "cfId": 5595,
+    "fullName": "William Morgan"
   },
   {
-    "cfId": 2103,
-    "fullName": "World B. Free"
+    "cfId": 5133,
+    "fullName": "William Nicholson"
   },
   {
-    "cfId": 17515,
-    "fullName": "Xavier Cooks"
+    "cfId": 5591,
+    "fullName": "William Nicholson"
+  },
+  {
+    "cfId": 5148,
+    "fullName": "Willie Green"
   },
   {
     "cfId": 17074,
@@ -5492,23 +6456,23 @@
     "fullName": "Xavier Tillman Sr."
   },
   {
-    "cfId": 19246,
-    "fullName": "Yam Madar"
+    "cfId": 1396,
+    "fullName": "Yakup Sekizkök"
   },
   {
-    "cfId": 2912,
-    "fullName": "Yanni Wetzell"
+    "cfId": 19965,
+    "fullName": "Yanic Konan-Niederhauser"
+  },
+  {
+    "cfId": 20610,
+    "fullName": "Yaxel Lendeborg"
   },
   {
     "cfId": 19920,
     "fullName": "YongXi Cui"
   },
   {
-    "cfId": 2924,
-    "fullName": "Youssoupha Fall"
-  },
-  {
-    "cfId": 20945,
+    "cfId": 19930,
     "fullName": "Yuki Kawamura"
   },
   {
@@ -5536,8 +6500,32 @@
     "fullName": "Zach Edey"
   },
   {
+    "cfId": 5582,
+    "fullName": "Zach Jackson"
+  },
+  {
     "cfId": 4506,
     "fullName": "Zach LaVine"
+  },
+  {
+    "cfId": 1493,
+    "fullName": "Zach Timmerman"
+  },
+  {
+    "cfId": 1493,
+    "fullName": "Zach Timmerman"
+  },
+  {
+    "cfId": 1493,
+    "fullName": "Zach Timmerman"
+  },
+  {
+    "cfId": 1493,
+    "fullName": "Zach Timmerman"
+  },
+  {
+    "cfId": 20045,
+    "fullName": "Zack Austin"
   },
   {
     "cfId": 19271,
@@ -5556,23 +6544,23 @@
     "fullName": "Ziaire Williams"
   },
   {
-    "cfId": 2914,
-    "fullName": "Ziga Samar"
-  },
-  {
     "cfId": 19000,
     "fullName": "Zion Williamson"
   },
   {
-    "cfId": 2603,
-    "fullName": "Zoran Dragic"
+    "cfId": 20622,
+    "fullName": "Zuby Ejiofor"
   },
   {
     "cfId": 10590,
     "fullName": "Zyon Pullin"
   },
   {
-    "cfId": 66661,
-    "fullName": "Test Player"
+    "cfId": 5162,
+    "fullName": "Álex Mumbrú"
+  },
+  {
+    "cfId": 5150,
+    "fullName": "Šarūnas Jasikevičius"
   }
 ]
